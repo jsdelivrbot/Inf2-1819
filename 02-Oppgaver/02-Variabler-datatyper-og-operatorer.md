@@ -1,4 +1,4 @@
-# 2 Oppgaver
+# 2 Variabler, datatyper og operatører
 ----------
 
 ### Oppgave 1
