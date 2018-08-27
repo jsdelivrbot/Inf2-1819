@@ -12,32 +12,71 @@
     let tall3 = 22;
     let utsagn = true;
 
-    console.log(`${tall1} har datatypen ${typeof(tall1)}`);
-    console.log(`${tall2} har datatypen ${typeof(tall2)}`);
-    console.log(`${tall3} har datatypen ${typeof(tall3)}`);
-    console.log(`${utsagn} har datatypen ${typeof(utsagn)}`);
+    console.log(`tall1: ${tall1} har datatypen ${typeof(tall1)}`);
+    console.log(`tall2: ${tall2} har datatypen ${typeof(tall2)}`);
+    console.log(`tall3: ${tall3} har datatypen ${typeof(tall3)}`);
+    console.log(`utsagn: ${utsagn} har datatypen ${typeof(utsagn)}`);
+    // Endre datatype
+    // parseInt -> heltall
+    // parseFloat -> desimaltall
+    console.log(`${tall1} + ${tall2} = ${tall1 + parseFloat(tall2)}`)
 
     // Underveisoppgave
     //  -Oppgave 2.12 og 2.13 i boka. (Bruk let, ikke var.)
 
-    // Spørre brukeren
+    console.log('------Underveisoppgaver----------');
+    console.log('------2.12----------');
+
+    let navn;
+    console.log(`navn: ${navn} har datatypen ${typeof(navn)}.`);
+
+    let alder = 2;
+    console.log(`alder: ${alder} har datatypen ${typeof(alder)}.`);
+
+    alder = 2.718;
+    console.log(`alder: ${alder} har datatypen ${typeof(alder)}.`);
+
+    navn = 'Ola';
+    console.log(`navn: ${navn} har datatypen ${typeof(navn)}.`);
+
+    let aarstall = '1985';
+    console.log(`aarstall: ${aarstall} har datatypen ${typeof(aarstall)}.`);
+
+    console.log('------2.13----------');
+
+    let tekst1 = '17';
+    tekst1 = parseFloat(tekst1);
+    console.log(`tekst1: ${tekst1} har datatypen ${typeof(tekst1)}.`);
+
+    tekst1 = '20 17';
+    tekst1 = parseFloat(tekst1);
+    console.log(`tekst1: ${tekst1} har datatypen ${typeof(tekst1)}.`);
+
+    tekst1 = '4,7';
+    tekst1 = parseFloat(tekst1);
+    console.log(`tekst1: ${tekst1} har datatypen ${typeof(tekst1)}.`);
+
+
+    // Spørre brukeren (prompt)
     // let hei = prompt('Hei!');
-    // console.log(hei);
+    // console.log(`${hei} har datatypen ${typeof(hei)}`);
 
-    a = prompt('Gi meg et tall:');
-    b = parseInt(prompt('Gi meg et tall til:'));
+    // let a = parseFloat(prompt('Gi meg et tall: '));
+    // let b = parseFloat(prompt('Gi meg et tall til: '));
+    // console.log(`${a} + ${b} = ${a+b}`);
 
-    console.log(`${a} har datatypen ${typeof(b)}`);
-    console.log(`${a} + ${b} = ${a+b}`);
 
     // Formatere tall ved utskrift
-    // let tall4 = Math.PI;
-    // console.log(`${tall4.toFixed(2)} har datatypen ${typeof(tall4)}`);
-
+    let minPi = Math.PI;
+    console.log(minPi);
+    console.log(minPi.toFixed(2));
 
     // Underveisoppgave
     //  -Lag et program som spør brukeren om en verdi i
     //   dollar og så skriver ut hva verdien tilsvarer i kroner.
+
+    console.log(`$${3}`)
+    //$1.00 tilsvarer 8.34kr
 
 
 
