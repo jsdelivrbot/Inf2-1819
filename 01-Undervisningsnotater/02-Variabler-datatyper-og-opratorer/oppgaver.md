@@ -21,8 +21,8 @@ Lag en kalkulator som konverterer fra grader celsius til fahrenheit.
 
 ### Oppgave 3
 
-Lag en enkel kontokalkulator der brukeren kan taste inn *innskudd, rente og antall år*. Programmet skal så beregne penger på konto på etter angitt antall år. Beregningen skal skje i en funksjon der innskudd, rente og antall år er *innparameter* og skal *returnere* antall kroner på konto. Svaret skal ha maksimalt to desimaler. Formelen for å beregne penger på konto etter x år er: $innskudd \cdot vekstfaktor^{antall år}$
- 
+Lag en enkel kontokalkulator der brukeren kan taste inn *innskudd, rente og antall år*. Programmet skal så beregne penger på konto på etter angitt antall år. Beregningen skal skje i en funksjon der innskudd, rente og antall år er *innparameter* og skal *returnere* antall kroner på konto. Svaret skal ha maksimalt to desimaler. Formelen for å beregne penger på konto etter x år er: $innskudd \cdot vekstfaktor^{antall år}$ \\(innskudd \cdot vekstfaktor^{antall år}\\)
+
 
 
 

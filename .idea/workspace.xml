@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae7a6824-db3b-4a80-b6d0-60e22976e7c2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-Undervisningsnotater/02-Variabler-datatyper-og-opratorer/oppgaver.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-Undervisningsnotater/02-Variabler-datatyper-og-opratorer/underveis.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Undervisningsnotater/02-Variabler-datatyper-og-opratorer/2.2-Datatyper.html" beforeDir="false" afterPath="$PROJECT_DIR$/01-Undervisningsnotater/02-Variabler-datatyper-og-opratorer/2.2-Datatyper.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Undervisningsnotater/02-Variabler-datatyper-og-opratorer/2.3-Operatorer.html" beforeDir="false" afterPath="$PROJECT_DIR$/01-Undervisningsnotater/02-Variabler-datatyper-og-opratorer/2.3-Operatorer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Undervisningsnotater/02-Variabler-datatyper-og-opratorer/oppgaver.md" beforeDir="false" afterPath="$PROJECT_DIR$/01-Undervisningsnotater/02-Variabler-datatyper-og-opratorer/oppgaver.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -54,7 +48,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="708">
-                <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+                <caret line="23" column="464" selection-start-line="23" selection-start-column="464" selection-end-line="23" selection-end-column="464" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -194,12 +188,12 @@
       <workItem from="1535018771585" duration="4179000" />
       <workItem from="1535107184248" duration="4206000" />
       <workItem from="1535128042929" duration="9031000" />
-      <workItem from="1535354508739" duration="800000" />
+      <workItem from="1535354508739" duration="887000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18216000" />
+    <option name="totallyTimeSpent" value="18303000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -340,7 +334,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="708">
-            <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+            <caret line="23" column="464" selection-start-line="23" selection-start-column="464" selection-end-line="23" selection-end-column="464" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
