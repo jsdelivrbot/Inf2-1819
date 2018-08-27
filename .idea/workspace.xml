@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae7a6824-db3b-4a80-b6d0-60e22976e7c2" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/01-Undervisningsnotater/02-Variabler-datatyper-og-opratorer/oppgaver.md" beforeDir="false" afterPath="$PROJECT_DIR$/01-Undervisningsnotater/02-Variabler-datatyper-og-opratorer/oppgaver.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -47,8 +48,8 @@
         <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/02-Variabler-datatyper-og-opratorer/oppgaver.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="708">
-                <caret line="23" column="464" selection-start-line="23" selection-start-column="464" selection-end-line="23" selection-end-column="464" />
+              <first_editor relative-caret-position="392">
+                <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -188,12 +189,12 @@
       <workItem from="1535018771585" duration="4179000" />
       <workItem from="1535107184248" duration="4206000" />
       <workItem from="1535128042929" duration="9031000" />
-      <workItem from="1535354508739" duration="887000" />
+      <workItem from="1535354508739" duration="1561000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18303000" />
+    <option name="totallyTimeSpent" value="18977000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -333,8 +334,8 @@
     <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/02-Variabler-datatyper-og-opratorer/oppgaver.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="708">
-            <caret line="23" column="464" selection-start-line="23" selection-start-column="464" selection-end-line="23" selection-end-column="464" />
+          <first_editor relative-caret-position="392">
+            <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
