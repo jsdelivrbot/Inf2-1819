@@ -20,11 +20,4 @@ Lag en enkel kontokalkulator der brukeren kan taste inn *innskudd, rente og anta
 ![equation](http://www.sciweavers.org/tex2img.php?eq=innskudd%20%5Ccdot%20vekstfaktor%5Ex&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
 
 
-
-
-
-
-
 ---
-
-_Denne oppgaven er en del av [eksamen i IT2 201x](http://www.udir.no). Oppgaven er tilpasset og omarbeidet av [fuzzbin](https://github.com/fuzzbin). Oppgaven er lisensiert under en [Creative Commons Navngivelse-DelPåSammeVilkår 4.0 Internasjonal lisens.](http://creativecommons.org/licenses/by-sa/4.0/)_
