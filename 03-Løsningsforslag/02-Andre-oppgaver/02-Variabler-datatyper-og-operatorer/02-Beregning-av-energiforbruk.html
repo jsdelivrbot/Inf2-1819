@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>02-Beregning-av-energiforbruk</title>
+</head>
+<body>
+
+
+<script>
+    let vekt = Number(prompt('Vekt (kg): '));
+    let bmr = 35.27 + 0.558*vekt;
+
+    console.log(`Energiforbruket for å overleve en time (18år, 180cm og ${vekt}kg) er ${bmr.toFixed(1)}kj/h`)
+</script>
+</body>
+</html>

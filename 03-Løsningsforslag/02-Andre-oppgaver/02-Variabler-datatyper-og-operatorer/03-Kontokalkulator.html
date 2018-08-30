@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>03-Kontokalkulator</title>
+</head>
+<body>
+
+
+<script>
+    let innskudd = Number(prompt('Innskudd: '));
+    let rente = Number(prompt('Rente: '));;
+    let aar = Number(prompt('År: '));;
+
+    let fremtidigVerdi = innskudd * Math.pow(1+rente/100, aar);
+
+    console.log(`${innskudd.toFixed(2)}kr vokser til ${fremtidigVerdi.toFixed(2)}kr i løpet av ${aar} år med en rente på ${rente.toFixed(1)}%`)
+</script>
+</body>
+</html>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Form</title>
+</head>
+<body>
+
+<ul id="navneliste">
+
+</ul>
+
+<form id="test">
+    <input id="navn" type="text" autocomplete="off" placeholder="Navn" autofocus>
+    <input type="submit">
+</form>
+
+<script>
+    document.querySelector("#test").onsubmit = function () {
+        const navn = document.querySelector("#navn");
+        const li = document.createElement("li");
+        li.innerHTML = navn.value;
+        document.querySelector('#navneliste').append(li);
+        navn.value = '';
+        return false;
+    }
+</script>
+
+</body>
+</html>
