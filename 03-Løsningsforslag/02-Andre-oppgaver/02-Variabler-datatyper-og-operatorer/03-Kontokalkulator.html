@@ -8,13 +8,14 @@
 
 
 <script>
-    let innskudd = Number(prompt('Innskudd: '));
-    let rente = Number(prompt('Rente: '));;
-    let aar = Number(prompt('År: '));;
 
-    let fremtidigVerdi = innskudd * Math.pow(1+rente/100, aar);
+    let innskudd = Number(prompt('Inskudd (kr): '));
+    let rente = Number(prompt('Rente (%): '));
+    let aar = Number(prompt('År: '));
 
-    console.log(`${innskudd.toFixed(2)}kr vokser til ${fremtidigVerdi.toFixed(2)}kr i løpet av ${aar} år med en rente på ${rente.toFixed(1)}%`)
+    verdi = innskudd*Math.pow((1 + rente/100), aar);
+    console.log(`${innskudd.toFixed(2)}kr stiger til ${verdi.toFixed(2)}kr i løpet av ${aar}år med ${rente.toFixed(1)}% rente.`);
+
 </script>
 </body>
 </html>

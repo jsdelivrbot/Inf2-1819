@@ -8,10 +8,11 @@
 
 
 <script>
-    let vekt = Number(prompt('Vekt (kg): '));
-    let bmr = 35.27 + 0.558*vekt;
 
-    console.log(`Energiforbruket for å overleve en time (18år, 180cm og ${vekt}kg) er ${bmr.toFixed(1)}kj/h`)
+    let vekt = Number(prompt('Vekt (kg):')); // i kg
+    let bmr = 35.27 + 0.558*vekt;
+    console.log(`BMR = ${bmr.toFixed(2)}kj/h, (18år, 180cm og ${vekt}kg).`);
+
 </script>
 </body>
 </html>
