@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>3.1 - Valg</title>
+</head>
+<body>
+<script>
+
+    // Sammenlikniinger
+    console.log(`2 === 2 -> ${2 === 2}`);
+    console.log(`2 != 2 -> ${2 !== 2}`);
+    console.log(`2.000001 > 2 -> ${2.000001 > 2}`);
+    console.log(`2 >= 2 -> ${2 >= 2}` );
+
+    let a = Math.sqrt(8);
+    let b = 18/7;
+
+    console.log(`${a.toFixed(3)} > ${b.toFixed(3)} -> ${a > b}`);
+
+    //Underveisoppgaver: 3.1 og 3.2
+
+    //------------ if-setninger ----------------------
+
+    let utsagn = 13 > 12;
+    if(utsagn){
+        // kodeblokk som utføres
+        // hvis utsagnet er sant
+        console.log(`Utsagnet er sant!`);
+    }
+
+    // Spørrelek - Gjett på et tall fra 1 til 10 - v1
+    console.log(`----- Spørrelek v1 ------`);
+    let svarTall; // = Number(prompt('Gjett på et tall fra 1 til 10: '));
+    let riktigTall = 7;
+
+    if (riktigTall === svarTall){
+        console.log('Du gjettet riktig!');
+    }
+
+    // Spørrelek - Gjett på et tall fra 1 til 10 - v2
+    console.log(`----- Spørrelek v2 ------`);
+    svarTall; //= Number(prompt('Gjett på et tall fra 1 til 10: '));
+    riktigTall = 7;
+
+    if (riktigTall === svarTall){
+        console.log('Du gjettet riktig!');
+    }
+    else {
+        console.log('Du gjettet feil! cmd+r')
+    }
+
+    // Spørrelek - Gjett på et tall fra 1 til 10 - v3
+  /*  console.log(`----- Spørrelek v3 ------`);
+    svarTall = Number(prompt('Gjett på et tall fra 1 til 10: '));
+    riktigTall = 7;
+
+    if (riktigTall === svarTall){
+        console.log('Du gjettet riktig!');
+    }
+    else if (riktigTall > svarTall){
+        console.log('Tallet er større! cmd+r');
+    }
+    else{
+        console.log('Tallet er mindre! cmd+r');
+    }*/
+
+    //Underveisoppgaver: 3.3 og 3.4
+
+   /// 100 <= a <= 180
+    a = 120;
+    if ( 100 <= a && a <= 180 ){
+      //kodeblokk
+    }
+    let brukerfarge = 'gul';
+    // valgt gul eller grønn
+    if (brukerfarge === 'gul' || brukerfarge === 'grønn'){
+
+    }
+    // Tilfeldig tall fra 1 til 10
+    console.log(Math.floor(Math.random()*10)+1);
+
+
+
+
+
+
+
+
+
+
+
+</script>
+
+</body>
+</html>
