@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae7a6824-db3b-4a80-b6d0-60e22976e7c2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/03-Løsningsforslag/01-Oppgaver -fra-boka/03-Kontrollstruktur/3.7-Magic-8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Oppgaver/03-Kontrollstruktur-(valg-og-løkker).md" beforeDir="false" afterPath="$PROJECT_DIR$/02-Oppgaver/03-Kontrollstruktur-(valg-og-løkker).md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -61,12 +60,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="03-Kontrollstruktur-(valg-og-løkker).md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="03-Kontrollstruktur-(valg-og-løkker).md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/02-Oppgaver/03-Kontrollstruktur-(valg-og-løkker).md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="896">
-                <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+              <first_editor>
+                <caret column="4" selection-start-column="4" selection-end-column="4" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -75,7 +74,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="3.7-Magic-8.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="3.7-Magic-8.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/03-Løsningsforslag/01-Oppgaver -fra-boka/03-Kontrollstruktur/3.7-Magic-8.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="452">
@@ -152,8 +151,8 @@
         <option value="$PROJECT_DIR$/03-Løsningsforslag/02-Andre-oppgaver/02-Variabler-datatyper-og-operatorer/03-Kontokalkulator.html" />
         <option value="$PROJECT_DIR$/01-Undervisningsnotater/03-Kontrollstruktur-(valg-og-løkker)/3.1-Valg.html" />
         <option value="$PROJECT_DIR$/01-Undervisningsnotater/03-Kontrollstruktur-(valg-og-løkker)/3.2-Løkker.html" />
-        <option value="$PROJECT_DIR$/02-Oppgaver/03-Kontrollstruktur-(valg-og-løkker).md" />
         <option value="$PROJECT_DIR$/03-Løsningsforslag/01-Oppgaver -fra-boka/03-Kontrollstruktur/3.7-Magic-8.html" />
+        <option value="$PROJECT_DIR$/02-Oppgaver/03-Kontrollstruktur-(valg-og-løkker).md" />
       </list>
     </option>
   </component>
@@ -296,12 +295,12 @@
       <workItem from="1535128042929" duration="9031000" />
       <workItem from="1535354508739" duration="24476000" />
       <workItem from="1535966574520" duration="5488000" />
-      <workItem from="1536222529692" duration="3367000" />
+      <workItem from="1536222529692" duration="3426000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50747000" />
+    <option name="totallyTimeSpent" value="50806000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
@@ -564,22 +563,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02-Oppgaver/03-Kontrollstruktur-(valg-og-løkker).md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="896">
-            <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/03-Løsningsforslag/01-Oppgaver -fra-boka/03-Kontrollstruktur/3.7-Magic-8.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="452">
           <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-Oppgaver/03-Kontrollstruktur-(valg-og-løkker).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="4" selection-start-column="4" selection-end-column="4" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
         </state>
       </provider>
     </entry>

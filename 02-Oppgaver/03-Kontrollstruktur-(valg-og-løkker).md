@@ -1,4 +1,4 @@
-# 2 Variabler, datatyper og operatører
+# 2 Kontrollstruktur (valg og løkker)
 ----------
 
 ### Oppgave 1
