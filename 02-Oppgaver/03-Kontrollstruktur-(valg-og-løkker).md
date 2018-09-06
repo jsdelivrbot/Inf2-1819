@@ -1,4 +1,4 @@
-# 2 Kontrollstruktur (valg og løkker)
+# 3 Kontrollstruktur (valg og løkker)
 ----------
 
 ### Oppgave 1

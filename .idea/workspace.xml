@@ -64,8 +64,8 @@
         <entry file="file://$PROJECT_DIR$/02-Oppgaver/03-Kontrollstruktur-(valg-og-løkker).md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="4" selection-start-column="4" selection-end-column="4" />
+              <first_editor relative-caret-position="140">
+                <caret line="4" column="145" lean-forward="true" selection-start-line="4" selection-start-column="145" selection-end-line="4" selection-end-column="145" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -295,12 +295,12 @@
       <workItem from="1535128042929" duration="9031000" />
       <workItem from="1535354508739" duration="24476000" />
       <workItem from="1535966574520" duration="5488000" />
-      <workItem from="1536222529692" duration="3426000" />
+      <workItem from="1536222529692" duration="3451000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50806000" />
+    <option name="totallyTimeSpent" value="50831000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
@@ -573,8 +573,8 @@
     <entry file="file://$PROJECT_DIR$/02-Oppgaver/03-Kontrollstruktur-(valg-og-løkker).md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="4" selection-start-column="4" selection-end-column="4" />
+          <first_editor relative-caret-position="140">
+            <caret line="4" column="145" lean-forward="true" selection-start-line="4" selection-start-column="145" selection-end-line="4" selection-end-column="145" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
