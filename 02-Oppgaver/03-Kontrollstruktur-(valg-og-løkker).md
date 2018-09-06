@@ -19,7 +19,7 @@ Lag et program som skriver ut annethvert heltall fra 100 til 200 (ikke til og me
 ### Oppgave 6
 Lag et program som skriver ut en tabell med overskriftene “tall” og “rota av tallet”. Skriv ut tallene fra og med 0 til og med 100 med de respektive røttene i kolonnen til høyre. Du trenger ikke skillelinjer i tabellen, men prøv å få til et pent utskriftsformat.
 
-
+-
 
 
 
