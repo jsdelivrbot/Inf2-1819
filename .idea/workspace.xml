@@ -2,34 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae7a6824-db3b-4a80-b6d0-60e22976e7c2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/markdown-exported-files.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01-Undervisningsnotater/03-Kontrollstruktur-(valg-og-løkker)/3.2-Løkker.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-Oppgaver/03-Kontrollstruktur-(valg-og-løkker).md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Inf2-1819.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Inf2-1819.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/madsor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/madsor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/markdown-navigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Undervisningsnotater/02-Variabler-datatyper-og-opratorer/2.0-Javascript.html" beforeDir="false" afterPath="$PROJECT_DIR$/01-Undervisningsnotater/02-Variabler-datatyper-og-opratorer/2.0-Javascript.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Undervisningsnotater/02-Variabler-datatyper-og-opratorer/2.1-Variabler.html" beforeDir="false" afterPath="$PROJECT_DIR$/01-Undervisningsnotater/02-Variabler-datatyper-og-opratorer/2.1-Variabler.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Undervisningsnotater/02-Variabler-datatyper-og-opratorer/2.2-Datatyper.html" beforeDir="false" afterPath="$PROJECT_DIR$/01-Undervisningsnotater/02-Variabler-datatyper-og-opratorer/2.2-Datatyper.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Undervisningsnotater/02-Variabler-datatyper-og-opratorer/2.3-Operatorer.html" beforeDir="false" afterPath="$PROJECT_DIR$/01-Undervisningsnotater/02-Variabler-datatyper-og-opratorer/2.3-Operatorer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Undervisningsnotater/02-Variabler-datatyper-og-opratorer/underveis.png" beforeDir="false" afterPath="$PROJECT_DIR$/01-Undervisningsnotater/02-Variabler-datatyper-og-opratorer/underveis.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Undervisningsnotater/03-Kontrollstruktur-(valg-og-løkker)/3.1-Valg.html" beforeDir="false" afterPath="$PROJECT_DIR$/01-Undervisningsnotater/03-Kontrollstruktur-(valg-og-løkker)/3.1-Valg.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Undervisningsnotater/04-Funksjoner/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/01-Undervisningsnotater/04-Funksjoner/test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Undervisningsnotater/04-Funksjoner/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/01-Undervisningsnotater/04-Funksjoner/test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Undervisningsnotater/04-Funksjoner/test2.html" beforeDir="false" afterPath="$PROJECT_DIR$/01-Undervisningsnotater/04-Funksjoner/test2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Undervisningsnotater/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/01-Undervisningsnotater/form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-Oppgaver/02-Variabler-datatyper-og-operatorer.md" beforeDir="false" afterPath="$PROJECT_DIR$/02-Oppgaver/02-Variabler-datatyper-og-operatorer.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-Løsningsforslag/02-Andre-oppgaver/02-Variabler-datatyper-og-operatorer/01-Celsius-til-fahrenheit.html" beforeDir="false" afterPath="$PROJECT_DIR$/03-Løsningsforslag/02-Andre-oppgaver/02-Variabler-datatyper-og-operatorer/01-Celsius-til-fahrenheit.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-Løsningsforslag/02-Andre-oppgaver/02-Variabler-datatyper-og-operatorer/02-Beregning-av-energiforbruk.html" beforeDir="false" afterPath="$PROJECT_DIR$/03-Løsningsforslag/02-Andre-oppgaver/02-Variabler-datatyper-og-operatorer/02-Beregning-av-energiforbruk.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-Løsningsforslag/02-Andre-oppgaver/02-Variabler-datatyper-og-operatorer/03-Kontokalkulator.html" beforeDir="false" afterPath="$PROJECT_DIR$/03-Løsningsforslag/02-Andre-oppgaver/02-Variabler-datatyper-og-operatorer/03-Kontokalkulator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-Oppgaver/03-Kontrollstruktur-(valg-og-løkker).md" beforeDir="false" afterPath="$PROJECT_DIR$/02-Oppgaver/03-Kontrollstruktur-(valg-og-løkker).md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -78,7 +51,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="224">
-                <caret line="7" column="28" lean-forward="true" selection-end-line="7" selection-end-column="28" />
+                <caret line="7" column="28" selection-end-line="7" selection-end-column="28" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -91,8 +64,8 @@
         <entry file="file://$PROJECT_DIR$/02-Oppgaver/03-Kontrollstruktur-(valg-og-løkker).md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="224">
-                <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+              <first_editor relative-caret-position="385">
+                <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -305,12 +278,12 @@
       <workItem from="1535128042929" duration="9031000" />
       <workItem from="1535354508739" duration="24476000" />
       <workItem from="1535966574520" duration="5488000" />
-      <workItem from="1536222529692" duration="1304000" />
+      <workItem from="1536222529692" duration="1510000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48684000" />
+    <option name="totallyTimeSpent" value="48890000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -565,7 +538,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="224">
-            <caret line="7" column="28" lean-forward="true" selection-end-line="7" selection-end-column="28" />
+            <caret line="7" column="28" selection-end-line="7" selection-end-column="28" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -576,8 +549,8 @@
     <entry file="file://$PROJECT_DIR$/02-Oppgaver/03-Kontrollstruktur-(valg-og-løkker).md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="224">
-            <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+          <first_editor relative-caret-position="385">
+            <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
