@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Løkker</title>
+</head>
+<body>
+
+
+<script>
+   /*
+   så lenge betinglsen er sann {
+        gjør dette
+    }
+    Når betingelsen ikk er sann gjør den neste linje under løkken*/
+   /*
+   while(betingelse){
+       kodeblokk
+   }
+    */
+    let i = 1;
+    while (i <= 10){
+       console.log(i);
+       i += 1;
+    }
+    let antall = 1;
+    while (antall <= 1000){
+        console.log(`${antall} ball!`);
+        antall += 1;
+    }
+
+    //fra 1000 til 1099
+   i = 1000;
+   while (i < 1100){
+       console.log(i);
+       i += 5;
+   }
+
+   // tabell: C til F fra -20 til 30
+    //graderCelsius*9/5 + 32;
+
+    let graderCelsius = -20;
+    let graderFahrenheit;
+   console.log(`________________________`);
+   console.log(`|      C     |    F    |`);
+   console.log(`————————————————————————`);
+
+
+   while (graderCelsius <= 30){
+       graderFahrenheit = graderCelsius*9/5 + 32;
+
+       console.log(`|      ${graderCelsius.toFixed(0)}   |    ${graderFahrenheit.toFixed(0)}     |`);
+
+       graderCelsius += 5;
+   }
+   console.log(`————————————————————————`);
+
+
+   //
+    Math.sqrt(9);
+
+
+</script>
+</body>
+</html>

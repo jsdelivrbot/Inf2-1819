@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae7a6824-db3b-4a80-b6d0-60e22976e7c2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/02-Oppgaver/03-Kontrollstruktur-(valg-og-løkker).md" beforeDir="false" afterPath="$PROJECT_DIR$/02-Oppgaver/03-Kontrollstruktur-(valg-og-løkker).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Undervisningsnotater/03-Kontrollstruktur-(valg-og-løkker)/3.2-Løkker.html" beforeDir="false" afterPath="$PROJECT_DIR$/01-Undervisningsnotater/03-Kontrollstruktur-(valg-og-løkker)/3.2-Løkker-(while).html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -37,11 +38,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="3.2-Løkker.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/03-Kontrollstruktur-(valg-og-løkker)/3.2-Løkker.html">
+      <file leaf-file-name="3.2-Løkker-(while).html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/03-Kontrollstruktur-(valg-og-løkker)/3.2-Løkker-(while).html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="528">
+              <caret line="45" column="40" selection-start-line="45" selection-start-column="40" selection-end-line="45" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -60,7 +61,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="03-Kontrollstruktur-(valg-og-løkker).md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="03-Kontrollstruktur-(valg-og-løkker).md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/02-Oppgaver/03-Kontrollstruktur-(valg-og-løkker).md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
@@ -104,8 +105,8 @@
       <file leaf-file-name="01-Celsius-til-fahrenheit.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/03-Løsningsforslag/02-Andre-oppgaver/02-Variabler-datatyper-og-operatorer/01-Celsius-til-fahrenheit.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+            <state relative-caret-position="280">
+              <caret line="10" column="50" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -150,9 +151,10 @@
         <option value="$PROJECT_DIR$/03-Løsningsforslag/02-Andre-oppgaver/02-Variabler-datatyper-og-operatorer/02-Beregning-av-energiforbruk.html" />
         <option value="$PROJECT_DIR$/03-Løsningsforslag/02-Andre-oppgaver/02-Variabler-datatyper-og-operatorer/03-Kontokalkulator.html" />
         <option value="$PROJECT_DIR$/01-Undervisningsnotater/03-Kontrollstruktur-(valg-og-løkker)/3.1-Valg.html" />
-        <option value="$PROJECT_DIR$/01-Undervisningsnotater/03-Kontrollstruktur-(valg-og-løkker)/3.2-Løkker.html" />
         <option value="$PROJECT_DIR$/03-Løsningsforslag/01-Oppgaver -fra-boka/03-Kontrollstruktur/3.7-Magic-8.html" />
         <option value="$PROJECT_DIR$/02-Oppgaver/03-Kontrollstruktur-(valg-og-løkker).md" />
+        <option value="$PROJECT_DIR$/01-Undervisningsnotater/03-Kontrollstruktur-(valg-og-løkker)/3.2-Løkker.html" />
+        <option value="$PROJECT_DIR$/01-Undervisningsnotater/03-Kontrollstruktur-(valg-og-løkker)/3.2-Løkker-(while).html" />
       </list>
     </option>
   </component>
@@ -168,7 +170,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1680" />
     <option name="height" value="1050" />
   </component>
@@ -295,15 +297,15 @@
       <workItem from="1535128042929" duration="9031000" />
       <workItem from="1535354508739" duration="24476000" />
       <workItem from="1535966574520" duration="5488000" />
-      <workItem from="1536222529692" duration="3451000" />
+      <workItem from="1536222529692" duration="6337000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50831000" />
+    <option name="totallyTimeSpent" value="53717000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.30976966" />
@@ -523,13 +525,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03-Løsningsforslag/02-Andre-oppgaver/02-Variabler-datatyper-og-operatorer/01-Celsius-til-fahrenheit.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/03-Løsningsforslag/02-Andre-oppgaver/02-Variabler-datatyper-og-operatorer/02-Beregning-av-energiforbruk.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
@@ -541,13 +536,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="16" column="129" selection-start-line="16" selection-start-column="129" selection-end-line="16" selection-end-column="129" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/03-Kontrollstruktur-(valg-og-løkker)/3.2-Løkker.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
@@ -579,6 +567,20 @@
           <second_editor>
             <markdownNavigatorState />
           </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-Løsningsforslag/02-Andre-oppgaver/02-Variabler-datatyper-og-operatorer/01-Celsius-til-fahrenheit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="50" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/03-Kontrollstruktur-(valg-og-løkker)/3.2-Løkker-(while).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="45" column="40" selection-start-line="45" selection-start-column="40" selection-end-line="45" selection-end-column="40" />
         </state>
       </provider>
     </entry>
