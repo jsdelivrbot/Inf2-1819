@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>for-løkker</title>
+</head>
+<body>
+
+
+<script>
+    //while-løkke
+    let i = 0;
+    while (i <= 10){
+        console.log(`while: i = ${i}`);
+        i += 1;
+    }
+
+    //for-løkke
+    for (let i = 0; i <= 10; i += 1){
+        console.log(`for: i = ${i}`);
+    }
+
+    // ord-eksempel
+    let ord = 'melankolsk';
+    let len = ord.length;
+    
+    for (let i = 0; i < len; i++){
+        let bokstav = ord[i];
+        if (bokstav === 'e' || bokstav === 'a' || bokstav === 'o'){
+            console.log(`${bokstav} er en vokal!`)
+        }
+        else{
+            console.log(bokstav);
+        }
+    }
+
+    let setning = 'Ny forskning viser at det mest brukte lusemiddelet i oppdrettsnæringen er langt farligere for reker og miljø enn det vi hittil har trodd. Funnene er alarmerende, og myndighetene bør vurdere å stoppe bruken av hydrogenperoksid, mener forskere.';
+
+    len = setning.length;
+    ord = '';
+    for (let i = 0; i < len; i++){
+        let bokstav = setning[i];
+        if (bokstav === ' '){
+            console.log(ord);
+            ord = '';
+        }
+        else if (bokstav !== '.' && bokstav !== ','){
+            ord += bokstav;
+        }
+    }
+
+
+
+
+
+
+
+
+</script>
+</body>
+</html>
