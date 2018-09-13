@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae7a6824-db3b-4a80-b6d0-60e22976e7c2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/01-Undervisningsnotater/03-Kontrollstruktur-(valg-og-løkker)/3.2-Løkker-(for).html" beforeDir="false" afterPath="$PROJECT_DIR$/01-Undervisningsnotater/03-Kontrollstruktur-(valg-og-løkker)/3.2-Løkker-(for).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-Løsningsforslag/01-Oppgaver -fra-boka/03-Kontrollstruktur/3.14-Hashtag.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-Løsningsforslag/01-Oppgaver -fra-boka/03-Kontrollstruktur/3.17-FizzBuzz.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-Løsningsforslag/01-Oppgaver -fra-boka/03-Kontrollstruktur/3.19-abc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,105 +20,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2.1-Variabler.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/02-Variabler-datatyper-og-opratorer/2.1-Variabler.html">
+      <file leaf-file-name="3.14-Hashtag.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03-Løsningsforslag/01-Oppgaver -fra-boka/03-Kontrollstruktur/3.14-Hashtag.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2800">
-              <caret line="100" selection-start-line="100" selection-end-line="100" />
+            <state relative-caret-position="471">
+              <caret line="12" column="24" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="3.1-Valg.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/03-Kontrollstruktur-(valg-og-løkker)/3.1-Valg.html">
+      <file leaf-file-name="3.17-FizzBuzz.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03-Løsningsforslag/01-Oppgaver -fra-boka/03-Kontrollstruktur/3.17-FizzBuzz.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="614">
-              <caret line="82" selection-start-line="82" selection-end-line="82" />
-              <folding>
-                <element signature="e#1361#1733#0" />
-              </folding>
+            <state relative-caret-position="527">
+              <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="3.2-Løkker-(while).html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/03-Kontrollstruktur-(valg-og-løkker)/3.2-Løkker-(while).html">
+      <file leaf-file-name="3.19-abc.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/03-Løsningsforslag/01-Oppgaver -fra-boka/03-Kontrollstruktur/3.19-abc.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-510">
-              <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="3.2-Løkker-(for).html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/03-Kontrollstruktur-(valg-og-løkker)/3.2-Løkker-(for).html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="659">
-              <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="02-Variabler-datatyper-og-operatorer.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02-Oppgaver/02-Variabler-datatyper-og-operatorer.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="196">
-                <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="03-Kontrollstruktur-(valg-og-løkker).md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02-Oppgaver/03-Kontrollstruktur-(valg-og-løkker).md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="140">
-                <caret line="4" column="145" lean-forward="true" selection-start-line="4" selection-start-column="145" selection-end-line="4" selection-end-column="145" />
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="3.7-Magic-8.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03-Løsningsforslag/01-Oppgaver -fra-boka/03-Kontrollstruktur/3.7-Magic-8.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="452">
-              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="02-Beregning-av-energiforbruk.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03-Løsningsforslag/02-Andre-oppgaver/02-Variabler-datatyper-og-operatorer/02-Beregning-av-energiforbruk.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="03-Kontokalkulator.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03-Løsningsforslag/02-Andre-oppgaver/02-Variabler-datatyper-og-operatorer/03-Kontokalkulator.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="16" column="129" selection-start-line="16" selection-start-column="129" selection-end-line="16" selection-end-column="129" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="01-Celsius-til-fahrenheit.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03-Løsningsforslag/02-Andre-oppgaver/02-Variabler-datatyper-og-operatorer/01-Celsius-til-fahrenheit.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="10" column="50" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="50" />
+            <state relative-caret-position="508">
+              <caret line="20" column="30" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -164,6 +92,10 @@
         <option value="$PROJECT_DIR$/01-Undervisningsnotater/03-Kontrollstruktur-(valg-og-løkker)/3.2-Løkker.html" />
         <option value="$PROJECT_DIR$/01-Undervisningsnotater/03-Kontrollstruktur-(valg-og-løkker)/3.2-Løkker-(while).html" />
         <option value="$PROJECT_DIR$/01-Undervisningsnotater/03-Kontrollstruktur-(valg-og-løkker)/3.2-Løkker-(for).html" />
+        <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/03-Løsningsforslag/01-Oppgaver -fra-boka/03-Kontrollstruktur/3.14-Hashtag.html" />
+        <option value="$PROJECT_DIR$/03-Løsningsforslag/01-Oppgaver -fra-boka/03-Kontrollstruktur/3.17-FizzBuzz.html" />
+        <option value="$PROJECT_DIR$/03-Løsningsforslag/01-Oppgaver -fra-boka/03-Kontrollstruktur/3.19-abc.html" />
       </list>
     </option>
   </component>
@@ -207,17 +139,6 @@
             <path>
               <item name="Inf2-1819" type="b2602c69:ProjectViewProjectNode" />
               <item name="Inf2-1819" type="462c0819:PsiDirectoryNode" />
-              <item name="01-Undervisningsnotater" type="462c0819:PsiDirectoryNode" />
-              <item name="03-Kontrollstruktur-(valg-og-løkker)" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Inf2-1819" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Inf2-1819" type="462c0819:PsiDirectoryNode" />
-              <item name="02-Oppgaver" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Inf2-1819" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Inf2-1819" type="462c0819:PsiDirectoryNode" />
               <item name="03-Løsningsforslag" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -232,19 +153,6 @@
               <item name="03-Løsningsforslag" type="462c0819:PsiDirectoryNode" />
               <item name="01-Oppgaver -fra-boka" type="462c0819:PsiDirectoryNode" />
               <item name="03-Kontrollstruktur" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Inf2-1819" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Inf2-1819" type="462c0819:PsiDirectoryNode" />
-              <item name="03-Løsningsforslag" type="462c0819:PsiDirectoryNode" />
-              <item name="02-Andre-oppgaver" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Inf2-1819" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Inf2-1819" type="462c0819:PsiDirectoryNode" />
-              <item name="03-Løsningsforslag" type="462c0819:PsiDirectoryNode" />
-              <item name="02-Andre-oppgaver" type="462c0819:PsiDirectoryNode" />
-              <item name="02-Variabler-datatyper-og-operatorer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -262,7 +170,7 @@
     <property name="node.js.selected.package.prettier" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -306,27 +214,28 @@
       <workItem from="1535128042929" duration="9031000" />
       <workItem from="1535354508739" duration="24476000" />
       <workItem from="1535966574520" duration="5488000" />
-      <workItem from="1536222529692" duration="12619000" />
+      <workItem from="1536222529692" duration="12876000" />
+      <workItem from="1536826749779" duration="6706000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59999000" />
+    <option name="totallyTimeSpent" value="66962000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.40746623" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2859412" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.2494043" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3295099" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39937434" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -343,6 +252,89 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/02-Variabler-datatyper-og-opratorer/2.1-Variabler.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2800">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/03-Kontrollstruktur-(valg-og-løkker)/3.1-Valg.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1960">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+          <folding>
+            <element signature="e#1361#1733#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/03-Kontrollstruktur-(valg-og-løkker)/3.2-Løkker-(while).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-Oppgaver/02-Variabler-datatyper-og-operatorer.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="168">
+            <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-Oppgaver/03-Kontrollstruktur-(valg-og-løkker).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="112">
+            <caret line="4" column="145" lean-forward="true" selection-start-line="4" selection-start-column="145" selection-end-line="4" selection-end-column="145" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-Løsningsforslag/01-Oppgaver -fra-boka/03-Kontrollstruktur/3.7-Magic-8.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-Løsningsforslag/02-Andre-oppgaver/02-Variabler-datatyper-og-operatorer/02-Beregning-av-energiforbruk.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-Løsningsforslag/02-Andre-oppgaver/02-Variabler-datatyper-og-operatorer/03-Kontokalkulator.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="16" column="129" selection-start-line="16" selection-start-column="129" selection-end-line="16" selection-end-column="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-Løsningsforslag/02-Andre-oppgaver/02-Variabler-datatyper-og-operatorer/01-Celsius-til-fahrenheit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="50" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/03-Kontrollstruktur-(valg-og-løkker)/3.2-Løkker-(for).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1568">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/02-Variabler-datatyper-og-opratorer/2.1-Variabler.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2800">
@@ -491,13 +483,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="586">
-          <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/02-Variabler-datatyper-og-opratorer/2.3-Operatorer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="853">
@@ -526,7 +511,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/03-Kontrollstruktur-(valg-og-løkker)/3.1-Valg.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="614">
+        <state relative-caret-position="1960">
           <caret line="82" selection-start-line="82" selection-end-line="82" />
           <folding>
             <element signature="e#1361#1733#0" />
@@ -541,10 +526,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03-Løsningsforslag/02-Andre-oppgaver/02-Variabler-datatyper-og-operatorer/03-Kontokalkulator.html">
+    <entry file="file://$PROJECT_DIR$/03-Løsningsforslag/02-Andre-oppgaver/02-Variabler-datatyper-og-operatorer/01-Celsius-til-fahrenheit.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="16" column="129" selection-start-line="16" selection-start-column="129" selection-end-line="16" selection-end-column="129" />
+        <state relative-caret-position="280">
+          <caret line="10" column="50" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/block.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1125">
+          <caret line="60" column="16" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
@@ -560,18 +566,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03-Løsningsforslag/01-Oppgaver -fra-boka/03-Kontrollstruktur/3.7-Magic-8.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/02-Oppgaver/03-Kontrollstruktur-(valg-og-løkker).md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="140">
-            <caret line="4" column="145" lean-forward="true" selection-start-line="4" selection-start-column="145" selection-end-line="4" selection-end-column="145" />
+          <first_editor relative-caret-position="-212">
+            <caret line="4" column="145" selection-start-line="4" selection-start-column="145" selection-end-line="4" selection-end-column="145" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -579,24 +578,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03-Løsningsforslag/02-Andre-oppgaver/02-Variabler-datatyper-og-operatorer/01-Celsius-til-fahrenheit.html">
+    <entry file="file://$PROJECT_DIR$/03-Løsningsforslag/01-Oppgaver -fra-boka/03-Kontrollstruktur/3.7-Magic-8.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="10" column="50" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/03-Kontrollstruktur-(valg-og-løkker)/3.2-Løkker-(while).html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-510">
-          <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+        <state relative-caret-position="502">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/03-Kontrollstruktur-(valg-og-løkker)/3.2-Løkker-(for).html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="659">
-          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+        <state relative-caret-position="1624">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-Løsningsforslag/02-Andre-oppgaver/02-Variabler-datatyper-og-operatorer/03-Kontokalkulator.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="16" column="129" selection-start-line="16" selection-start-column="129" selection-end-line="16" selection-end-column="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/03-Kontrollstruktur-(valg-og-løkker)/3.2-Løkker-(while).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-Løsningsforslag/01-Oppgaver -fra-boka/03-Kontrollstruktur/3.14-Hashtag.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-Løsningsforslag/01-Oppgaver -fra-boka/03-Kontrollstruktur/3.17-FizzBuzz.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-Løsningsforslag/01-Oppgaver -fra-boka/03-Kontrollstruktur/3.19-abc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="30" />
         </state>
       </provider>
     </entry>
