@@ -67,12 +67,43 @@
 
     // Underveisoppgaver
     // 1.   Lag en funksjon som skriver ut summen
-    //      av to tilfeldige heltall.
-    // 2.   Lag en funksjon som tar to parametere a og b og             skriver ut summen og produktet
-    // 3.   Lag en funksjon som skriver ut tallene fra 1 til n
+    //      av to tilfeldige heltall fra 1 til 10.
+    console.log(`------------ Oppgave 1 --------------`);
+    function sumTilfeldigeTall() {
+        let t1 = Math.floor(Math.random()*10)+1;
+        let t2 = Math.floor(Math.random()*10)+1;
+        let sum = t1 + t2;
+        console.log(`${t1} + ${t2} = ${sum}`);
+    }
+    sumTilfeldigeTall();
+    sumTilfeldigeTall();
+
+    // 2.   Lag en funksjon som tar to parametere a og b og
+    //      skriver ut summen og produktet
+    console.log(`------------ Oppgave 2 --------------`);
+    function sumOgProdukt(t1, t2) {
+        let sum = t1 + t2;
+        let produkt = t1*t2;
+        console.log(`${t1} + ${t2} = ${sum}`);
+        console.log(`${t1} * ${t2} = ${produkt}`);
+    }
+    sumOgProdukt(3, 7);
+
+    // 3.   Lag en funksjon som skriver ut summen av tallene fra 1 til n (n er parameter)
+    console.log(`------------ Oppgave 3 --------------`);
+    function sumN(n) {
+        let sum = 0;
+        for (let i = 1; i <= n; i++){
+            sum += i;
+        }
+        console.log(`1 + 2 + ... + ${n} = ${sum}`)
+    }
+    sumN(10);
+
     // 4.    Oppdater funksjonen over til å returnere verdiene
     //      hvis det det går
 
+    // Oppgave  4.2, 4.3, 4.5, 4.6, 4.7, 4.8, 4.9
 
 
 
