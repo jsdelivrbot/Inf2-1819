@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae7a6824-db3b-4a80-b6d0-60e22976e7c2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/01-Undervisningsnotater/04-Funksjoner/4.1-Enkle-funksjoner.html" beforeDir="false" afterPath="$PROJECT_DIR$/01-Undervisningsnotater/04-Funksjoner/4.1-Enkle-funksjoner.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -74,8 +73,8 @@
       <file leaf-file-name="4.1-Enkle-funksjoner.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/04-Funksjoner/4.1-Enkle-funksjoner.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="113" column="17" lean-forward="true" selection-start-line="113" selection-start-column="17" selection-end-line="113" selection-end-column="17" />
+            <state relative-caret-position="-656">
+              <caret line="99" column="5" lean-forward="true" selection-start-line="99" selection-start-column="5" selection-end-line="99" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -237,15 +236,15 @@
       <workItem from="1535354508739" duration="24476000" />
       <workItem from="1535966574520" duration="5488000" />
       <workItem from="1536222529692" duration="12876000" />
-      <workItem from="1536826749779" duration="14243000" />
+      <workItem from="1536826749779" duration="16268000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74499000" />
+    <option name="totallyTimeSpent" value="76524000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.2859412" />
@@ -651,8 +650,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/04-Funksjoner/4.1-Enkle-funksjoner.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="113" column="17" lean-forward="true" selection-start-line="113" selection-start-column="17" selection-end-line="113" selection-end-column="17" />
+        <state relative-caret-position="-656">
+          <caret line="99" column="5" lean-forward="true" selection-start-line="99" selection-start-column="5" selection-end-line="99" selection-end-column="5" />
         </state>
       </provider>
     </entry>
