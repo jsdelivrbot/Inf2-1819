@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>4.1 Enkle funksjoner</title>
+</head>
+<body>
+<script>
+
+    // Funksjoner vi har brukt
+    console.log('Hei'); // Funksjonen tar et argument
+                        // og skriver det ut i consolen
+
+    Math.random();      // Returnerer et tall mellom 0 og 1
+
+    Math.floor(4.6);    // Tall som argument og returnerer
+                        // tallet rundet ned til nærmeste
+                        // heltall
+
+    // en veldig enkel funksjon
+    function skivUtNavnetMitt() {
+        console.log('Mads');
+    }
+
+    skivUtNavnetMitt();
+    skivUtNavnetMitt();
+    skivUtNavnetMitt();
+
+    for(let i = 0; i < 10; i++){
+        skivUtNavnetMitt();
+    }
+
+    // en funksjon med parameter.
+    function skrivUt(tekst) {
+        console.log(tekst);
+    }
+    // kaller på funksjonen skrivUt med et argument
+    skrivUt('God mandag!');
+
+    let tekst = 'God morgen.';
+    skrivUt(tekst);
+
+    let a = 'Tester flere ting';
+    skrivUt(a);
+
+
+    // Funskjon med return
+    function terningkast() {
+        let kast = Math.floor(Math.random()*6) + 1;
+        return kast;
+    }
+
+
+    console.log(terningkast());
+
+    let t1 = terningkast();
+    let t2 = terningkast();
+    let sum = t1 + t2;
+
+    console.log(`t1=${t1} og t2=${t2}`);
+
+    let terning = -1;
+    while(terning !== 6){
+        terning = terningkast();
+        console.log(terning);
+    }
+
+    // Underveisoppgaver
+    // 1.   Lag en funksjon som skriver ut summen
+    //      av to tilfeldige heltall.
+    // 2.   Lag en funksjon som tar to parametere a og b og             skriver ut summen og produktet
+    // 3.   Lag en funksjon som skriver ut tallene fra 1 til n
+    // 4.    Oppdater funksjonen over til å returnere verdiene
+    //      hvis det det går
+
+
+
+
+
+</script>
+</body>
+</html>
