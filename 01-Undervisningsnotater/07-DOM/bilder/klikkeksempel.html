@@ -44,5 +44,16 @@
 </script>
 
 
+s(0) = 1
+s(n) = s(n-1) + 2
+
+def rek(n):
+    if n == 0:
+        return 1
+    else:
+        return rek(n-1) + 2
+
+rek(2)
+
 </body>
 </html>
