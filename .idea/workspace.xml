@@ -74,8 +74,8 @@
       <file leaf-file-name="klikkeksempel.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/07-DOM/bilder/klikkeksempel.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="51" column="16" lean-forward="true" selection-start-line="50" selection-start-column="4" selection-end-line="51" selection-end-column="16" />
+            <state relative-caret-position="911">
+              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
               <folding>
                 <element signature="e#119#143#0" />
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -286,12 +286,12 @@
       <workItem from="1537787249486" duration="1384000" />
       <workItem from="1538042379981" duration="5514000" />
       <workItem from="1538331543170" duration="20005000" />
-      <workItem from="1538637560169" duration="11296000" />
+      <workItem from="1538637560169" duration="11617000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="119546000" />
+    <option name="totallyTimeSpent" value="119867000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1083" height="1050" extended-state="6" />
@@ -701,8 +701,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/07-DOM/bilder/klikkeksempel.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="51" column="16" lean-forward="true" selection-start-line="50" selection-start-column="4" selection-end-line="51" selection-end-column="16" />
+        <state relative-caret-position="911">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
           <folding>
             <element signature="e#119#143#0" />
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
