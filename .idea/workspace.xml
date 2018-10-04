@@ -38,6 +38,15 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="test.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/07-DOM/test.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="73" column="24" selection-start-line="73" selection-start-column="24" selection-end-line="73" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="artikkel.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/07-DOM/artikkel.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -71,8 +80,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="klikkeksempel.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/07-DOM/bilder/klikkeksempel.html">
+      <file leaf-file-name="klikkeksempel.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/07-DOM/klikkeksempel.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-76">
               <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
@@ -98,10 +107,12 @@
     <findStrings>
       <find>2</find>
       <find>test</find>
+      <find>maskin</find>
     </findStrings>
     <replaceStrings>
       <replace>3</replace>
       <replace>boks</replace>
+      <replace>spiller</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -148,11 +159,11 @@
         <option value="$PROJECT_DIR$/03-Løsningsforslag/04-Innleveringer/innlevering1.html" />
         <option value="$PROJECT_DIR$/01-Undervisningsnotater/07-DOM/01-GetDiv.html" />
         <option value="$PROJECT_DIR$/01-Undervisningsnotater/07-DOM/artikkel.html" />
-        <option value="$PROJECT_DIR$/01-Undervisningsnotater/07-DOM/test.html" />
         <option value="$PROJECT_DIR$/01-Undervisningsnotater/07-DOM/test2.html" />
         <option value="$PROJECT_DIR$/01-Undervisningsnotater/07-DOM/lister.html" />
         <option value="$PROJECT_DIR$/01-Undervisningsnotater/07-DOM/02-forEach.html" />
         <option value="$PROJECT_DIR$/01-Undervisningsnotater/07-DOM/bilder/klikkeksempel.html" />
+        <option value="$PROJECT_DIR$/01-Undervisningsnotater/07-DOM/test.html" />
       </list>
     </option>
   </component>
@@ -237,8 +248,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/01-Undervisningsnotater/07-DOM/bilder" />
       <recent name="$PROJECT_DIR$/01-Undervisningsnotater/07-DOM" />
+      <recent name="$PROJECT_DIR$/01-Undervisningsnotater/07-DOM/bilder" />
       <recent name="$PROJECT_DIR$/03-Løsningsforslag/02-Andre-oppgaver/02-Variabler-datatyper-og-operatorer" />
       <recent name="$PROJECT_DIR$/02-Oppgaver" />
       <recent name="$PROJECT_DIR$/01-Undervisningsnotater/02-Variabler-datatyper-og-opratorer" />
@@ -286,17 +297,18 @@
       <workItem from="1537787249486" duration="1384000" />
       <workItem from="1538042379981" duration="5514000" />
       <workItem from="1538331543170" duration="20005000" />
-      <workItem from="1538637560169" duration="12038000" />
+      <workItem from="1538637560169" duration="14948000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120288000" />
+    <option name="totallyTimeSpent" value="123198000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1083" height="1050" extended-state="6" />
+    <frame x="0" y="0" width="860" height="1050" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27495292" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.27495292" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -650,13 +662,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/07-DOM/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1932">
-          <caret line="66" column="31" selection-start-line="66" selection-start-column="31" selection-end-line="66" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/07-DOM/test2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1613">
@@ -698,7 +703,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/07-DOM/bilder/klikkeksempel.html">
+    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/07-DOM/klikkeksempel.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-76">
           <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
@@ -706,6 +711,13 @@
             <element signature="e#119#143#0" />
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/07-DOM/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="73" column="24" selection-start-line="73" selection-start-column="24" selection-end-line="73" selection-end-column="24" />
         </state>
       </provider>
     </entry>

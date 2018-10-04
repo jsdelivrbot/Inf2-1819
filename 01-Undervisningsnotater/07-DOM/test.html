@@ -7,92 +7,82 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     <style>
-        .hoved{
-            width: 800px;
-            margin: 20px auto;
-            text-align: center;
-        }
+
         .pakker{
-            display: inline-grid;
+            display: grid;
             grid-template-columns: repeat(4, 1fr);
-            background: aquamarine;
-            width: 800px;
-            height: 200px;
+            grid-gap: 10px;
+            width: 1000px;
+            margin: auto;
         }
-        .pakker > div{
-            background-size: cover;
-        }
-        .pakker > div:hover{
-            cursor: pointer;
+        .pakker img{
+            width: 100%;
         }
         h1{
+            font-size: 100px;
             padding: 20px;
+            text-align: center;
         }
         p{
-            font-size: 60px;
+            font-size: 100px;
+            text-align: center;
         }
     </style>
 </head>
 <body>
+
+<h1>Stein, saks, papir</h1>
+<div class="pakker">
+    <img src="bilder/spiller_stein.png" alt="" class="spiller">
+    <img src="bilder/spiller_saks.png" alt="" class="spiller">
+    <img src="bilder/spiller_papir.png" alt="" class="spiller">
+    <img src="bilder/maskin_ukjent.png" alt="" class="maskin" id="maskin">
+</div>
+
+<p id="poeng">0 - 0</p>
+
 <script>
 
-    // Lager DOM -elementene (nodene)
-    let hovedEl = document.createElement('div');
-    let pakkerEl = document.createElement('div');
-    let beskjedEl = document.createElement('h1');
-    let poengEl = document.createElement('p');
+    let bilderMaskin = ['maskin_stein', 'maskin_saks', 'maskin_papir', 'maskin_ukjent'];
+    let spillerPoeng = 0;
+    let maskinPoeng = 0;
+    let bilderSpiller = document.querySelectorAll('.spiller');
+    let bildeMaskin = document.querySelector('#maskin');
+    let poengEl = document.querySelector('#poeng');
 
-    let bilder = ['stein', 'saks', 'papir', 'sporsmalstegn'];
-    let imgDivEl = [];
-    let poeng = [0, 0];
+    bilderSpiller.forEach(klikkhandling);
 
-    // Klasser og innhold til DOM-elementene (nodene)
-    hovedEl.classList.add('hoved', 'img-rounded');
-    pakkerEl.classList.add('pakker');
-    beskjedEl.innerHTML = 'Velg stein, saks eller papir';
-    beskjedEl.classList.add('bg-info');
-    poengEl.innerHTML = `${poeng[0]} - ${poeng[1]}`;
-    poengEl.classList.add('bg-danger');
+    function klikkhandling(bilde, spillervalg) {
+        bilde.addEventListener('click', function () {
+            let maskinvalg = Math.floor(Math.random()*3);
+            bildeMaskin.src = `bilder/${bilderMaskin[maskinvalg]}.png`;
+            if(spillervalg === maskinvalg){
+                console.log('Uavgjort');
+            }
+            else if(spillervalg === 0 && maskinvalg === 2 ||
+                    spillervalg === 1 && maskinvalg === 0 ||
+                    spillervalg === 2 && maskinvalg === 1 ){
 
+                console.log('Tap');
+                maskinPoeng++;
+            }
+            else {
+                console.log('Seier');
+                spillerPoeng++;
+            }
+            poengEl.innerHTML = `${spillerPoeng} - ${maskinPoeng}`;
+            setTimeout(500, function () {
+                bildeMaskin.src = `bilder/maskin_ukjent.png`;
 
-    for(let i = 0; i<4; i++) {
-        console.log(bilder[i]);
-        imgDivEl[i] = document.createElement('div');
-        imgDivEl[i].style.backgroundImage = `url(bilder/${bilder[i]}.png)`;
-        imgDivEl[i].classList.add("img-thumbnail");
-        pakkerEl.appendChild(imgDivEl[i]);
+            })
+
+        })
     }
 
-    document.body.appendChild(hovedEl);
-    hovedEl.appendChild(beskjedEl);
-    hovedEl.appendChild(pakkerEl);
-    hovedEl.appendChild(poengEl);
 
-    for(let i = 0; i<3; i++){
-        imgDivEl[i].addEventListener('click', function (e) {
-            let pc = Math.floor(Math.random()*3);
-            imgDivEl[3].style.backgroundImage = `url(bilder/${bilder[pc]}.png)`;
-            console.log(e);
-            if(i === pc){
-                beskjedEl.innerHTML = 'Uavgjort';
-            }
-            else if(i === 0 && pc === 2 || i === 1 && pc === 0 || i === 2 && pc === 1){
-                beskjedEl.innerHTML = 'Du tapte';
-                poeng[1]++;
-            }
-            else{
-                beskjedEl.innerHTML = 'Du vant';
-                poeng[0]++;
-            }
-            poengEl.innerHTML = `${poeng[0]} - ${poeng[1]}`;
 
-            setTimeout(function() {
-                imgDivEl[3].style.backgroundImage = `url(bilder/${bilder[3]}.png)`;
-                beskjedEl.innerHTML = 'Velg stein, saks eller papir';
-            },800);
 
-        });
-    }
+
 </script>
 </body>
 </html>
