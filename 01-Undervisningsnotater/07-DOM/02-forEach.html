@@ -13,6 +13,9 @@
             border: 5px #3b8054 solid;
             border-radius: 5px;
         }
+        .orangeFarge{
+            background-color: goldenrod;
+        }
     </style>
 </head>
 <body>
@@ -22,6 +25,21 @@
 
 <script>
     let boksEl = document.querySelector('div');
+
+    function leggTilTekst(tekst) {
+        boksEl.innerHTML += tekst;
+    }
+    function klikkhandling(){
+        boksEl.addEventListener('click', function () {
+            boksEl.classList.toggle('orangeFarge');
+        })
+    }
+    klikkhandling();
+    leggTilTekst(' - Tekst fra JavaScript');
+
+
+
+
 </script>
 
 </body>

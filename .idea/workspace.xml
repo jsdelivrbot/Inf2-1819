@@ -59,11 +59,8 @@
       <file leaf-file-name="02-forEach.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/07-DOM/02-forEach.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="862">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-              <folding>
-                <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
-              </folding>
+            <state relative-caret-position="701">
+              <caret line="33" column="45" lean-forward="true" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -262,18 +259,18 @@
       <workItem from="1537787249486" duration="1384000" />
       <workItem from="1538042379981" duration="5514000" />
       <workItem from="1538331543170" duration="20005000" />
-      <workItem from="1538637560169" duration="6976000" />
+      <workItem from="1538637560169" duration="7802000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115226000" />
+    <option name="totallyTimeSpent" value="116052000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1351" height="1200" extended-state="6" />
+    <frame x="0" y="0" width="1304" height="1200" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.27526706" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.27526468" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -671,11 +668,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/07-DOM/02-forEach.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="862">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
-          </folding>
+        <state relative-caret-position="701">
+          <caret line="33" column="45" lean-forward="true" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
         </state>
       </provider>
     </entry>
