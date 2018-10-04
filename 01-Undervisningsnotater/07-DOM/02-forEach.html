@@ -4,8 +4,14 @@
     <meta charset="UTF-8">
     <title>02-forEach (ES6)</title>
     <style>
+        .pakker{
+            display: grid;
+            grid-template-columns: repeat(10, 1fr);
+            grid-gap: 10px;
+            width: 700px;
+            margin: auto;
+        }
         .bokser{
-            width: 100px;
             height: 100px;
             background-color: #004462;
             color: aliceblue;
@@ -21,23 +27,127 @@
 <body>
 
 <!-- recap -->
-<div id="boks1" class="bokser">Boks 1</div>
+<div class="pakker">
+    <div id="boks1" class="bokser">Boks 1</div>
+    <div id="boks2" class="bokser">Boks 2</div>
+    <div id="boks3" class="bokser">Boks 3</div>
+    <div id="boks4" class="bokser">Boks 4</div>
+    <div id="boks5" class="bokser">Boks 5</div>
+    <div id="boks6" class="bokser">Boks 6</div>
+    <div id="boks7" class="bokser">Boks 7</div>
+    <div id="boks8" class="bokser">Boks 8</div>
+    <div id="boks9" class="bokser">Boks 9</div>
+    <div id="boks10" class="bokser">Boks 10</div>
+    <div id="boks11" class="bokser">Boks 11</div>
+    <div id="boks12" class="bokser">Boks 12</div>
+    <div id="boks13" class="bokser">Boks 13</div>
+    <div id="boks14" class="bokser">Boks 14</div>
+    <div id="boks15" class="bokser">Boks 15</div>
+    <div id="boks16" class="bokser">Boks 16</div>
+    <div id="boks17" class="bokser">Boks 17</div>
+    <div id="boks18" class="bokser">Boks 18</div>
+    <div id="boks19" class="bokser">Boks 19</div>
+    <div id="boks20" class="bokser">Boks 20</div>
+    <div id="boks21" class="bokser">Boks 21</div>
+    <div id="boks22" class="bokser">Boks 22</div>
+    <div id="boks23" class="bokser">Boks 23</div>
+    <div id="boks24" class="bokser">Boks 24</div>
+    <div id="boks25" class="bokser">Boks 25</div>
+    <div id="boks26" class="bokser">Boks 26</div>
+    <div id="boks27" class="bokser">Boks 27</div>
+    <div id="boks28" class="bokser">Boks 28</div>
+    <div id="boks29" class="bokser">Boks 29</div>
+    <div id="boks30" class="bokser">Boks 30</div>
+    <div id="boks31" class="bokser">Boks 31</div>
+    <div id="boks32" class="bokser">Boks 32</div>
+    <div id="boks33" class="bokser">Boks 33</div>
+    <div id="boks34" class="bokser">Boks 34</div>
+    <div id="boks35" class="bokser">Boks 35</div>
+    <div id="boks36" class="bokser">Boks 36</div>
+    <div id="boks37" class="bokser">Boks 37</div>
+    <div id="boks38" class="bokser">Boks 38</div>
+    <div id="boks39" class="bokser">Boks 39</div>
+    <div id="boks40" class="bokser">Boks 40</div>
+    <div id="boks41" class="bokser">Boks 41</div>
+    <div id="boks42" class="bokser">Boks 42</div>
+    <div id="boks43" class="bokser">Boks 43</div>
+    <div id="boks44" class="bokser">Boks 44</div>
+    <div id="boks45" class="bokser">Boks 45</div>
+    <div id="boks46" class="bokser">Boks 46</div>
+    <div id="boks47" class="bokser">Boks 47</div>
+    <div id="boks48" class="bokser">Boks 48</div>
+    <div id="boks49" class="bokser">Boks 49</div>
+    <div id="boks50" class="bokser">Boks 50</div>
+    <div id="boks51" class="bokser">Boks 51</div>
+    <div id="boks52" class="bokser">Boks 52</div>
+    <div id="boks53" class="bokser">Boks 53</div>
+    <div id="boks54" class="bokser">Boks 54</div>
+    <div id="boks55" class="bokser">Boks 55</div>
+    <div id="boks56" class="bokser">Boks 56</div>
+    <div id="boks57" class="bokser">Boks 57</div>
+    <div id="boks58" class="bokser">Boks 58</div>
+    <div id="boks59" class="bokser">Boks 59</div>
+    <div id="boks60" class="bokser">Boks 60</div>
+    <div id="boks61" class="bokser">Boks 61</div>
+    <div id="boks62" class="bokser">Boks 62</div>
+    <div id="boks63" class="bokser">Boks 63</div>
+    <div id="boks64" class="bokser">Boks 64</div>
+    <div id="boks65" class="bokser">Boks 65</div>
+    <div id="boks66" class="bokser">Boks 66</div>
+    <div id="boks67" class="bokser">Boks 67</div>
+    <div id="boks68" class="bokser">Boks 68</div>
+    <div id="boks69" class="bokser">Boks 69</div>
+    <div id="boks70" class="bokser">Boks 70</div>
+    <div id="boks71" class="bokser">Boks 71</div>
+    <div id="boks72" class="bokser">Boks 72</div>
+    <div id="boks73" class="bokser">Boks 73</div>
+    <div id="boks74" class="bokser">Boks 74</div>
+    <div id="boks75" class="bokser">Boks 75</div>
+    <div id="boks76" class="bokser">Boks 76</div>
+    <div id="boks77" class="bokser">Boks 77</div>
+    <div id="boks78" class="bokser">Boks 78</div>
+    <div id="boks79" class="bokser">Boks 79</div>
+    <div id="boks80" class="bokser">Boks 80</div>
+    <div id="boks81" class="bokser">Boks 81</div>
+    <div id="boks82" class="bokser">Boks 82</div>
+    <div id="boks83" class="bokser">Boks 83</div>
+    <div id="boks84" class="bokser">Boks 84</div>
+    <div id="boks85" class="bokser">Boks 85</div>
+    <div id="boks86" class="bokser">Boks 86</div>
+    <div id="boks87" class="bokser">Boks 87</div>
+    <div id="boks88" class="bokser">Boks 88</div>
+    <div id="boks89" class="bokser">Boks 89</div>
+    <div id="boks90" class="bokser">Boks 90</div>
+    <div id="boks91" class="bokser">Boks 91</div>
+    <div id="boks92" class="bokser">Boks 92</div>
+    <div id="boks93" class="bokser">Boks 93</div>
+    <div id="boks94" class="bokser">Boks 94</div>
+    <div id="boks95" class="bokser">Boks 95</div>
+    <div id="boks96" class="bokser">Boks 96</div>
+    <div id="boks97" class="bokser">Boks 97</div>
+    <div id="boks98" class="bokser">Boks 98</div>
+    <div id="boks99" class="bokser">Boks 99</div>
+    <div id="boks100" class="bokser">Boks 100</div>
+</div>
 
 <script>
-    let boksEl = document.querySelector('div');
+    //let boksEl = document.querySelector('div');
+    let bokserEl = document.querySelectorAll('.bokser');
+    bokserEl.forEach(leggTilTekst);
+    bokserEl.forEach(klikkhandling);
 
-    function leggTilTekst(tekst) {
-        boksEl.innerHTML += tekst;
+    function leggTilTekst(boks, indeks) {
+        boks.innerHTML += ` i=${indeks}`;
     }
-    function klikkhandling(){
-        boksEl.addEventListener('click', function () {
-            boksEl.classList.toggle('orangeFarge');
+    function klikkhandling(boks){
+        boks.addEventListener('click', function () {
+            boks.classList.toggle('orangeFarge');
         })
     }
-    klikkhandling();
-    leggTilTekst(' - Tekst fra JavaScript');
-
-
+    let hoyde = 100;
+    //når klikk kalles
+    hoyde++
+    boks.style.height = `${hoyde}px`
 
 
 </script>
