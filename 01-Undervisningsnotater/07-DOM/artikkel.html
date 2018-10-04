@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <div id="hoved">
+        <h1 id="tittel"></h1>
+        <p id="paragraf"></p>
+        <img id="bilde" src="" alt="">
+    </div>
+
+    <script>
+        let tittelEl = document.querySelector('#tittel');
+        let paragrafEl = document.querySelector('#paragraf');
+        let bildeEl = document.querySelector('#bilde');
+        let bodyEl = document.querySelector('body');
+        let hovedEl = document.querySelector('#hoved');
+
+        tittelEl.innerHTML = 'Avdekket ruiner med laser: Dette har ikke mennesker sett på flere hundre år';
+
+        paragrafEl.innerHTML = 'Forskerne brukte laser slik at de kunne se hva som lå under den tette jungelen. Det som dukket opp var store ruinfelt fra den mellomamerikanske mayakulturen.';
+
+        bildeEl.src = 'https://gfx.nrk.no/W6Kz9x7fiaS8JgS8WA3Q_wcAQx8jl3tZqRZGtiuywrBQ';
+
+
+        tittelEl.style.color = '#ff8582';
+        paragrafEl.style.color = '#3b8054';
+        bodyEl.style.backgroundColor = '#004462';
+        hovedEl.style.width = '600px';
+        hovedEl.style.margin = 'auto';
+        bildeEl.style.width = '100%';
+
+
+
+    </script>
+
+</body>
+</html>

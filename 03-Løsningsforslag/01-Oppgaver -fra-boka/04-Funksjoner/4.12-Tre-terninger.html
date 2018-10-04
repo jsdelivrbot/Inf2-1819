@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>To like</title>
+</head>
+<body>
+
+<script>
+    function terning(n) {
+        return Math.floor(Math.random()*n) + 1;
+    }
+    function treLike(t1, t2, t3) {
+        return t1 === t2 && t1 === t3;
+    }
+
+    function sum3Terninger(t1, t2, t3) {
+        return t1 + t2 + t3
+    }
+
+    function utskrift() {
+        let treLikeVariabel = false;
+        let antForsoek = 0;
+        while (!treLikeVariabel) {
+            antForsoek++;
+            let t1 = terning(3);
+            let t2 = terning(3);
+            let t3 = terning(3);
+            treLikeVariabel = treLike(t1, t2, t3);
+            console.log(`${t1} + ${t2} + ${t3} = ${sum3Terninger(t1, t2, t3)}`);
+
+            if(treLikeVariabel){
+                console.log(`Fikk tre like på ${antForsoek} forsøk`)
+            }
+        }
+    }
+
+    utskrift();
+
+
+
+</script>
+
+
+
+</body>
+</html>

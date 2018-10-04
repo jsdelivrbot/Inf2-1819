@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>To like</title>
+</head>
+<body>
+
+<script>
+    function terning(n) {
+        return Math.floor(Math.random()*n) + 1;
+    }
+    function toLike(t1, t2) {
+        return t1 === t2;
+    }
+    function sum7(t1, t2) {
+        return t1 + t2 === 7;
+    }
+    function utskrift() {
+        t1 = terning(6);
+        t2 = terning(6);
+        console.log(`Terninger: ${t1} og ${t2}`);
+        if(toLike(t1, t2)){
+            console.log(`Du har fått to like`);
+        }
+        else if(sum7(t1, t2)){
+            console.log(`Du har fått summen 7`);
+        }
+    }
+    utskrift();
+
+
+
+</script>
+
+
+
+</body>
+</html>

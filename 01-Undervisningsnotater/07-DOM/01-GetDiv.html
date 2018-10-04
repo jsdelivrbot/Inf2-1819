@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Div</title>
+</head>
+<body>
+    <div id="minId">Hei fra DOM-en</div>
+    <img id='mittBilde' src="" alt="">
+
+    <script>
+
+        let minIdEl = document.querySelector('#minId');
+        console.log(minIdEl.innerHTML);
+        minIdEl.innerHTML = 'Fra javascript til DOM';
+        minIdEl.innerHTML += '!';
+
+        //Henter bildeelementet img#mittBilde
+        let mittBildeEl = document.querySelector('#mittBilde');
+        let moldeVgsBildeadresse1 = 'http://molde.vgs.no/var/moldevgs/storage/images/molde-vgs/om-skolen/594794-3-nor-NO/Om-skolen_folderbanner.jpg';
+        let moldeVgsBildeadresse2 = 'http://www.molde.vgs.no/var/moldevgs/storage/images/media/skular/molde-vgs/bilder/aapen-dag/1961030-1-nor-NO/AApen-dag.jpg';
+
+        let valg = Number(prompt('velg bilde 1 eller 2'));
+        //Legger til adressen til bildeelementet.
+
+        if(valg === 1){
+            mittBildeEl.src = moldeVgsBildeadresse1;
+        }
+        else if(valg === 2){
+            mittBildeEl.src = moldeVgsBildeadresse2;
+        }
+        else{
+            alert('Du skrev inn noe feil.');
+        }
+        mittBildeEl.style.width = '200px';
+
+        // Hent body-elementet fra DOM-en og sett
+        // bagrunnsfargen til #121292
+
+        let bodyEl = document.querySelector('body');
+        bodyEl.style.backgroundColor = '#00618e';
+
+
+        // Lag et tomt H1-element, et p-element og et
+        // img-element (alle med ID). Hent alle elementene
+        // med qs og lag en artikkel med overskrift, tekst
+        // og bilde. Bytt fargen på tekstene og bakgrunnene.
+
+
+        // Utvid artikkelen med 2 paragrafer til.
+
+
+
+
+    </script>
+
+</body>
+</html>

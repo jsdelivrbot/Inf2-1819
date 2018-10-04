@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Yatzy</title>
+</head>
+<body>
+<script>
+    function terning(n) {
+        return Math.floor(Math.random()*n) + 1;
+    }
+    function yatzy(antTerninger) {
+        let n = 6; //antall øyne på terningen
+        let terningVariabel = '';
+        for(let i = 1; i <= antTerninger; i++){
+            terningVariabel += `${terning(n)} `;
+        }
+        console.log(terningVariabel);
+    }
+    for(let i = 1; i<=3; i++){
+        let antTerninger = Number(prompt('Velg antall terninger: '));
+        yatzy(antTerninger);
+    }
+
+</script>
+</body>
+</html>

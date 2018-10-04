@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>4.3 Funksjoner med returverdi</title>
+</head>
+<body>
+
+<script>
+    // Funksjon med returverdi
+    function f() {
+        return 'Hei fra "return"';
+    }
+
+    function g(x) {
+        return x**2 + 4*x + 4;
+        //(x+2)^2
+    }
+    for(let i = -4; i<=4; i++){
+        console.log(`g(${i}) = ${g(i)}`);
+    }
+    //ikke return
+    console.log('Hei');
+
+    //Return
+    Math.random();
+
+
+    // Berg og dalbane (krav: over 160cm)
+    // Funksjonen returnerer true hvis høyden er over
+    // 160 cm og false ellers
+    function bergOgDalbaneTilatelse(hoeyde) {
+        if(hoeyde > 160){
+            return true
+        }
+        else{
+            return false
+        }
+    }
+    function bergOgDalbaneTilatelse2(hoeyde) {
+        return hoeyde > 160;
+    }
+
+    //Oppgave 4.9-4.13 s67
+
+
+
+
+</script>
+
+
+</body>
+</html>

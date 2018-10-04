@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>To like</title>
+</head>
+<body>
+
+<script>
+    function terning() {
+        return Math.floor(Math.random()*6)+1;
+    }
+    function toLike(t1, t2) {
+        return t1 === t2;
+    }
+    function utskrift() {
+        let toLikeVariabel = false;
+        let antForsoek = 0;
+        while (!toLikeVariabel) {
+            antForsoek++;
+            let t1 = terning();
+            let t2 = terning();
+            toLikeVariabel = toLike(t1, t2);
+            console.log(`Fikk ${t1} og ${t2}`);
+
+            if(toLikeVariabel){
+                console.log(`Fikk to like på ${antForsoek} forsøk`)
+            }
+        }
+    }
+
+    utskrift();
+
+
+
+</script>
+
+
+
+</body>
+</html>

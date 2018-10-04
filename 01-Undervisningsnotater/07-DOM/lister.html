@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <style>
+        ul{
+            display: grid;
+            grid-gap: 10px;
+            grid-template-columns: repeat(6, 1fr);
+            width: 600px;
+            list-style: none;
+
+        }
+        li{
+            height: 100px;
+            background-color: darkred;
+            padding: 5px;
+            color: goldenrod;
+            border: #3b8054 1px solid;
+            border-radius: 5px;
+        }
+        li:hover{
+            cursor: pointer;
+        }
+
+        .farge{
+            background-color: aqua;
+        }
+
+    </style>
+
+</head>
+<body>
+<ul>
+    <li>Luke 1</li>
+    <li>Luke 2</li>
+    <li>Luke 3</li>
+    <li>Luke 4</li>
+    <li>Luke 5</li>
+    <li>Luke 6</li>
+    <li>Luke 7</li>
+    <li>Luke 8</li>
+    <li>Luke 9</li>
+    <li>Luke 10</li>
+    <li>Luke 11</li>
+    <li>Luke 12</li>
+    <li>Luke 13</li>
+    <li>Luke 14</li>
+    <li>Luke 15</li>
+    <li>Luke 16</li>
+    <li>Luke 17</li>
+    <li>Luke 18</li>
+    <li>Luke 19</li>
+    <li>Luke 20</li>
+    <li>Luke 21</li>
+    <li>Luke 22</li>
+    <li>Luke 23</li>
+    <li>Luke 24</li>
+</ul>
+
+<script>
+    liEl = document.querySelectorAll('li');
+    liEl.forEach(leggTilTekst);
+    liEl.forEach(klikkHandling);
+
+    function leggTilTekst(li, indeks) {
+        li.innerText += ` Hei fra indeks ${indeks}`;
+    }
+    
+    function klikkHandling(li) {
+        li.addEventListener('click', function () {
+            li.classList.toggle('farge');
+        })
+    }
+
+
+</script>
+
+</body>
+</html>
