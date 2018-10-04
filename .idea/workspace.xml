@@ -56,15 +56,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="02-forEach.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="02-forEach.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/07-DOM/02-forEach.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="135" column="14" lean-forward="true" selection-start-line="135" selection-start-column="14" selection-end-line="135" selection-end-column="14" />
+            <state relative-caret-position="131">
+              <caret line="131" lean-forward="true" selection-start-line="131" selection-end-line="131" />
               <folding>
                 <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
                 <element signature="e#130#154#0" />
                 <element signature="e#130#154#0" />
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="klikkeksempel.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/07-DOM/bilder/klikkeksempel.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="448">
+              <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+              <folding>
+                <element signature="e#119#143#0" />
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
@@ -139,6 +152,7 @@
         <option value="$PROJECT_DIR$/01-Undervisningsnotater/07-DOM/test2.html" />
         <option value="$PROJECT_DIR$/01-Undervisningsnotater/07-DOM/lister.html" />
         <option value="$PROJECT_DIR$/01-Undervisningsnotater/07-DOM/02-forEach.html" />
+        <option value="$PROJECT_DIR$/01-Undervisningsnotater/07-DOM/bilder/klikkeksempel.html" />
       </list>
     </option>
   </component>
@@ -183,6 +197,13 @@
               <item name="Inf2-1819" type="462c0819:PsiDirectoryNode" />
               <item name="01-Undervisningsnotater" type="462c0819:PsiDirectoryNode" />
               <item name="07-DOM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Inf2-1819" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Inf2-1819" type="462c0819:PsiDirectoryNode" />
+              <item name="01-Undervisningsnotater" type="462c0819:PsiDirectoryNode" />
+              <item name="07-DOM" type="462c0819:PsiDirectoryNode" />
+              <item name="bilder" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Inf2-1819" type="b2602c69:ProjectViewProjectNode" />
@@ -265,18 +286,18 @@
       <workItem from="1537787249486" duration="1384000" />
       <workItem from="1538042379981" duration="5514000" />
       <workItem from="1538331543170" duration="20005000" />
-      <workItem from="1538637560169" duration="9923000" />
+      <workItem from="1538637560169" duration="10509000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="118173000" />
+    <option name="totallyTimeSpent" value="118759000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1075" height="1200" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.27526468" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2751423" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -302,13 +323,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/07-DOM/test2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1092">
-          <caret line="39" column="10" lean-forward="true" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/03-Løsningsforslag/02-Andre-oppgaver/02-Variabler-datatyper-og-operatorer/02-Beregning-av-energiforbruk.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
@@ -674,12 +688,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/07-DOM/02-forEach.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="135" column="14" lean-forward="true" selection-start-line="135" selection-start-column="14" selection-end-line="135" selection-end-column="14" />
+        <state relative-caret-position="131">
+          <caret line="131" lean-forward="true" selection-start-line="131" selection-end-line="131" />
           <folding>
             <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
             <element signature="e#130#154#0" />
             <element signature="e#130#154#0" />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/07-DOM/bilder/klikkeksempel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+          <folding>
+            <element signature="e#119#143#0" />
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>

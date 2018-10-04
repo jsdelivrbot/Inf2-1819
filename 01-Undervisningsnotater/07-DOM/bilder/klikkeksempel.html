@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .pakker{
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            grid-gap: 10px;
+        }
+        .bokser{
+            height: 100px;
+            background-color: coral;
+        }
+    </style>
+</head>
+<body>
+
+<div class="pakker">
+    <div id="boks1" class="bokser"></div>
+    <div id="boks2" class="bokser"></div>
+    <div id="boks3" class="bokser"></div>
+    <div id="boks4" class="bokser"></div>
+</div>
+
+<script>
+    // en boks
+    //let boksEl = document.querySelector('#boks1');
+    //klikkhandling(boksEl);
+
+    //mange bokser
+    let bokser = document.querySelectorAll('.bokser');
+    bokser.forEach(klikkhandling);
+
+    function klikkhandling(boks) {
+        let hoyde = 100;
+        boks.addEventListener('click', function () {
+            hoyde += 10;
+            boks.style.height = `${hoyde}px`;
+        })
+    }
+
+</script>
+
+
+</body>
+</html>
