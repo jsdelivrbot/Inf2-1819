@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tilbakeblikk + removeEventlistener</title>
+    <style>
+        #pakker{
+            width: 600px;
+            margin: 50px auto;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            grid-gap: 10px;
+        }
+        #pakker img{
+            width: 100%;
+        }
+        .roter{
+            transform: rotate(180deg);
+            transition: transform 2s ease;
+        }
+    </style>
+</head>
+<body>
+<div id="pakker">
+    <img src="Stein-saks-papir/bilder/spiller_stein.png">
+    <img src="Stein-saks-papir/bilder/spiller_saks.png">
+</div>
+
+<script>
+    let bilder = document.querySelectorAll('img');
+    bilder.forEach(klikkhendelse);
+
+    let bilderMaskin =['maskin_stein.png', 'maskin_saks.png'];
+
+    function klikkhendelse(bilde, bildeindeks) {
+        bilde.addEventListener('click', function () {
+            bilde.classList.toggle('roter');
+            bilde.src =
+                `Stein-saks-papir/bilder/${bilderMaskin[bildeindeks]}`
+        })
+    }
+
+</script>
+</body>
+</html>
