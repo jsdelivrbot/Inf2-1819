@@ -3,12 +3,7 @@ let dorer = document.querySelectorAll('img');
 dorer.forEach(klikkhandling);
 
 let bilNr = Math.floor(Math.random()*3);
-let geitNr = bilNr;
 
-// velger et tilfeldig tall som er ulikt fra bilNr
-while (geitNr === bilNr) {
-    geitNr = Math.floor(Math.random()*3);
-}
 //Boolsk variabel for å
 valgt = false;
 
