@@ -1,7 +1,21 @@
 body{
-    background-color: black;
+    background-color: #ebf0f1;
+    width: 800px;
+    margin: 100px auto;
+    border: 2px solid black;
+    padding: 50px;
 }
 h1{
     text-align: center;
-    color: antiquewhite;
+    color: #045761;
+}
+#pakker{
+    width: 800px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+}
+img{
+    width: 100%;
 }

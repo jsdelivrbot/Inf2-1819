@@ -8,11 +8,11 @@ h1, p{
 }
 p{ font-size: 30px; }
 #pakker{
-    width: 600px;
+    width: 700px;
     margin: 50px auto;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-gap: 10px;
+    grid-gap: 20px;
 }
 #pakker img{
     width: 100%;

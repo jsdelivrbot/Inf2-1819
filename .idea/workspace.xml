@@ -21,28 +21,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Fagdag1/Monty-Hall/index.html">
+        <entry file="file://$PROJECT_DIR$/Fagdag1/Stein-saks-papir/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+            <state relative-caret-position="476">
+              <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Fagdag1/Monty-Hall/main.js">
+        <entry file="file://$PROJECT_DIR$/Fagdag1/Stein-saks-papir/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="446">
-              <caret line="28" column="52" lean-forward="true" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
+            <state relative-caret-position="856">
+              <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Fagdag1/Monty-Hall/style.css">
+        <entry file="file://$PROJECT_DIR$/Fagdag1/Stein-saks-papir/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+            <state relative-caret-position="140">
+              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -120,15 +120,15 @@
         <option value="$PROJECT_DIR$/01-Undervisningsnotater/07-DOM/lister.html" />
         <option value="$PROJECT_DIR$/01-Undervisningsnotater/07-DOM/02-forEach.html" />
         <option value="$PROJECT_DIR$/01-Undervisningsnotater/07-DOM/bilder/klikkeksempel.html" />
-        <option value="$PROJECT_DIR$/01-Undervisningsnotater/07-DOM/test.html" />
         <option value="$PROJECT_DIR$/Fagdag1/Stein-saks-papir/stil.css" />
-        <option value="$PROJECT_DIR$/Fagdag1/Stein-saks-papir/index.html" />
-        <option value="$PROJECT_DIR$/Fagdag1/Stein-saks-papir/main.js" />
         <option value="$PROJECT_DIR$/Fagdag1/tilbakeblikk.html" />
         <option value="$PROJECT_DIR$/Fagdag1/Monty-Hall/index.html" />
-        <option value="$PROJECT_DIR$/Fagdag1/Stein-saks-papir/style.css" />
-        <option value="$PROJECT_DIR$/Fagdag1/Monty-Hall/style.css" />
         <option value="$PROJECT_DIR$/Fagdag1/Monty-Hall/main.js" />
+        <option value="$PROJECT_DIR$/Fagdag1/Monty-Hall/style.css" />
+        <option value="$PROJECT_DIR$/01-Undervisningsnotater/07-DOM/test.html" />
+        <option value="$PROJECT_DIR$/Fagdag1/Stein-saks-papir/style.css" />
+        <option value="$PROJECT_DIR$/Fagdag1/Stein-saks-papir/index.html" />
+        <option value="$PROJECT_DIR$/Fagdag1/Stein-saks-papir/main.js" />
       </list>
     </option>
   </component>
@@ -171,6 +171,12 @@
             <path>
               <item name="Inf2-1819" type="b2602c69:ProjectViewProjectNode" />
               <item name="Inf2-1819" type="462c0819:PsiDirectoryNode" />
+              <item name="01-Undervisningsnotater" type="462c0819:PsiDirectoryNode" />
+              <item name="07-DOM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Inf2-1819" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Inf2-1819" type="462c0819:PsiDirectoryNode" />
               <item name="03-Løsningsforslag" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -189,13 +195,6 @@
               <item name="Inf2-1819" type="462c0819:PsiDirectoryNode" />
               <item name="Fagdag1" type="462c0819:PsiDirectoryNode" />
               <item name="Monty-Hall" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Inf2-1819" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Inf2-1819" type="462c0819:PsiDirectoryNode" />
-              <item name="Fagdag1" type="462c0819:PsiDirectoryNode" />
-              <item name="Monty-Hall" type="462c0819:PsiDirectoryNode" />
-              <item name="bilder" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Inf2-1819" type="b2602c69:ProjectViewProjectNode" />
@@ -274,18 +273,18 @@
       <workItem from="1537787249486" duration="1384000" />
       <workItem from="1538042379981" duration="5514000" />
       <workItem from="1538331543170" duration="20005000" />
-      <workItem from="1538637560169" duration="25412000" />
+      <workItem from="1538637560169" duration="30676000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="133662000" />
+    <option name="totallyTimeSpent" value="138926000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="764" height="800" extended-state="6" />
+    <frame x="0" y="0" width="1164" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.50201887" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.27572426" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -628,23 +627,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Fagdag1/Stein-saks-papir/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret column="39" selection-start-column="39" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/07-DOM/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-491">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-          <folding>
-            <element signature="e#2606#2622#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/07-DOM/test2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="677">
@@ -666,38 +648,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Fagdag1/Stein-saks-papir/index.html">
+    <entry file="file://$PROJECT_DIR$/Fagdag1/Monty-Hall/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
-          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fagdag1/Stein-saks-papir/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        <state relative-caret-position="295">
+          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Fagdag1/Monty-Hall/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fagdag1/Monty-Hall/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        <state relative-caret-position="912">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Fagdag1/Monty-Hall/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="28" column="52" lean-forward="true" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
+        <state relative-caret-position="369">
+          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/07-DOM/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2450">
+          <caret line="48" column="59" selection-start-line="48" selection-start-column="59" selection-end-line="48" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fagdag1/Stein-saks-papir/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fagdag1/Stein-saks-papir/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fagdag1/Stein-saks-papir/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="856">
+          <caret line="29" column="13" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
         </state>
       </provider>
     </entry>
