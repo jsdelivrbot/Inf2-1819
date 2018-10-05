@@ -1,0 +1,22 @@
+body{
+    background-color: #303030;
+}
+h1, p{
+    text-align: center;
+    color: antiquewhite;
+    font-size: 50px;
+}
+p{
+    font-size: 30px;
+}
+
+#pakker{
+    width: 600px;
+    margin: 50px auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 10px;
+}
+#pakker img{
+    width: 100%;
+}
