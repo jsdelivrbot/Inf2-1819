@@ -9,9 +9,9 @@ valgt = false;
 
 function klikkhandling(dor, valgNr) {
     dor.addEventListener('click', function () {
-        let fjernNr = valgNr;
+        let visNr = valgNr;
 
-        //Kjører hvis en dør er fjernet
+        //Kjører hvis en dør er åpnet
         if(valgt){
             if(valgNr === bilNr){
                 dor.src = 'bilder/bil.png';
@@ -23,12 +23,12 @@ function klikkhandling(dor, valgNr) {
             }
         }
         else{
-            //Fjerner en dør som ikke er bilen
+            // Mony Hall åpner en dør som ikke er bilen
             // eller den du har valgt
-            while (valgNr === fjernNr || bilNr === fjernNr) {
-                fjernNr = Math.floor(Math.random()*3);
+            while (valgNr === visNr || bilNr === visNr) {
+                visNr = Math.floor(Math.random()*3);
             }
-            dorer[fjernNr].src = 'bilder/geit.png';
+            dorer[visNr].src = 'bilder/geit.png';
             beskjedEl.innerHTML = 'Vil du bytte dør?'
         }
         valgt = true;
