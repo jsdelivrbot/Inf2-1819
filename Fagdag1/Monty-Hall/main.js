@@ -4,19 +4,19 @@ dorer.forEach(klikkhandling);
 
 let bilNr = Math.floor(Math.random()*3);
 let geitNr = bilNr;
+
 // velger et tilfeldig tall som er ulikt fra bilNr
 while (geitNr === bilNr) {
     geitNr = Math.floor(Math.random()*3);
 }
+//Boolsk variabel for å
 valgt = false;
-
-console.log(bilNr);
-console.log(geitNr);
-
 
 function klikkhandling(dor, valgNr) {
     dor.addEventListener('click', function () {
         let fjernNr = valgNr;
+
+        //Kjører hvis en dør er fjernet
         if(valgt){
             if(valgNr === bilNr){
                 dor.src = 'bilder/bil.png';
@@ -26,8 +26,8 @@ function klikkhandling(dor, valgNr) {
                 dor.src = 'bilder/geit.png';
                 beskjedEl.innerHTML = 'Du tapte.'
             }
-
         }
+        //Fjerner en dør
         else{
             if(valgNr === bilNr){
                 while (valgNr === fjernNr) {
@@ -41,7 +41,6 @@ function klikkhandling(dor, valgNr) {
                 }
                 dorer[fjernNr].src = 'bilder/geit.png';
             }
-            console.log(dorer[fjernNr]);
         }
         valgt = true;
     })
