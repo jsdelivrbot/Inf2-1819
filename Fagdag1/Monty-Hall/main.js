@@ -27,13 +27,14 @@ function klikkhandling(dor, valgNr) {
                 beskjedEl.innerHTML = 'Du tapte.'
             }
         }
-        //Fjerner en dør
         else{
-            console.log(bilNr);
+            //Fjerner en dør som ikke er bilen
+            // eller den du har valgt
             while (valgNr === fjernNr || bilNr === fjernNr) {
                 fjernNr = Math.floor(Math.random()*3);
             }
             dorer[fjernNr].src = 'bilder/geit.png';
+            beskjedEl.innerHTML = 'Vil du bytte dør?'
         }
         valgt = true;
     })
