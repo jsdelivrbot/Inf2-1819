@@ -29,18 +29,11 @@ function klikkhandling(dor, valgNr) {
         }
         //Fjerner en dør
         else{
-            if(valgNr === bilNr){
-                while (valgNr === fjernNr) {
-                    fjernNr = Math.floor(Math.random()*3);
-                }
-                dorer[fjernNr].src = 'bilder/geit.png';
+            console.log(bilNr);
+            while (valgNr === fjernNr || bilNr === fjernNr) {
+                fjernNr = Math.floor(Math.random()*3);
             }
-            else {
-                while (valgNr === fjernNr || valgNr === bilNr) {
-                    fjernNr = Math.floor(Math.random()*3);
-                }
-                dorer[fjernNr].src = 'bilder/geit.png';
-            }
+            dorer[fjernNr].src = 'bilder/geit.png';
         }
         valgt = true;
     })
