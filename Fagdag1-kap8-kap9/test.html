@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        div{
+            width: 100px;
+            height: 100px;
+            background-color: #3b8054;
+        }
+    </style>
+</head>
+<body>
+
+<div id="tester"></div>
+
+<script>
+    let divEl = document.querySelector('div');
+
+    function klikkDivEl(div) {
+        div.addEventListener('click', function () {
+            test(div);
+            test2(div);
+        })
+    }
+    function test(e) {
+        e.innerHTML = e.id
+    }
+    function test2(e) {
+        e.style.backgroundColor = '#999999'
+    }
+
+    klikkDivEl(divEl)
+
+
+
+
+</script>
+
+</body>
+</html>

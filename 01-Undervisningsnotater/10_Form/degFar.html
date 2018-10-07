@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<form id="test">
+    <input id="deg" type="number" placeholder="Grader Celcius">
+    <input type="submit">
+</form>
+<p></p>
+
+
+<script>
+
+    const form = document.querySelector('#test');
+    form.onsubmit  = function () {
+        const input = document.querySelector('#deg');
+        let celsius = Number(input.value);
+
+        document.querySelector('p').innerHTML = `${celsius}C = ${getFarehait(celsius)}F`;
+
+        return false;
+    };
+
+    function  getFarehait(celsius){
+        return celsius*9/5 + 32;
+    }
+
+
+</script>
+
+</body>
+</html>
