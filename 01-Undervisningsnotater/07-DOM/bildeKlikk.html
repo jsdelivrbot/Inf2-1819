@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bildeklikk</title>
+</head>
+<body>
+
+<img id="bilde" src="bilder/maskin_ukjent.png" alt="">
+
+<script>
+
+    bildeE = document.querySelector('#bilde');
+    bilder = [
+        'bilder/maskin_stein.png',
+        'bilder/maskin_saks.png',
+        'bilder/maskin_papir.png'
+    ];
+
+    bildeE.addEventListener('click', function () {
+        let nrBilde = Math.floor(Math.random()*3);
+        bildeE.src = bilder[nrBilde];
+    })
+
+</script>
+
+</body>
+</html>

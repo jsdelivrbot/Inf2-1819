@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>fahrenheit til Celcius</title>
+</head>
+<body>
+
+<form>
+    <input
+            type="number"
+            name="fahrenheit"
+            placeholder="fahrenheit"
+            autofocus
+    >
+    <input
+            type="submit"
+            value="Gjør om til Celcius"
+    >
+</form>
+<p id="svar">Her kommer svaret</p>
+
+<script>
+    const formE = document.forms[0];
+    const svarE = document.querySelector('#svar');
+
+    formE.onsubmit = function () {
+        let fahrenheit = formE['fahrenheit'];
+        let celcius = (Number(fahrenheit.value)-32)/(9/5);
+
+        svarE.innerHTML =
+            `${fahrenheit.value}°F = ${celcius}°C`;
+
+        fahrenheit.value = '';
+        return false;
+    }
+
+</script>
+
+</body>
+</html>

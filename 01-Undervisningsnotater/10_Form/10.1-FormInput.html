@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Form-tagen</title>
+</head>
+<body>
+
+<form id="navnForm">
+    <input type="text"
+           name="navn"
+           autofocus
+           placeholder="Navn"
+           autocomplete="false"
+    >
+    <input type="submit">
+</form>
+
+<script>
+    //let formE = document.querySelector('#navnForm');
+    let formE = document.forms[0]; //Henter form-elementet fra domen
+
+    // Når vi registrerer formen (skjemaet) så.....
+    formE.onsubmit = function () {
+        let navn = formE['navn']; //henter inputelementet 'navn'
+        alert(`Hei, ${navn.value}`); //Gør noe med inputen
+        navn.value = ''; //Tømmer input, 'navn',
+
+        return false; //Forhindrer reload av nettsiden
+    }
+
+</script>
+
+
+</body>
+</html>

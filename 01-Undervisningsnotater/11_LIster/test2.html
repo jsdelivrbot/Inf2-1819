@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Objekter</title>
+</head>
+<body>
+
+<script>
+    let personer = [
+        {navn: 'Steinar', alder:16},
+        {navn: 'Tore', alder:18},
+        {navn: 'Bjarte', alder:21}
+
+    ];
+    personer.forEach(skrivUt);
+    let forerkort = personer.filter(gammelNok);
+    forerkort.forEach(skrivUt);
+
+
+
+    function skrivUt(person, personNr) {
+        console.log(person.navn, personNr);
+    }
+    
+    function gammelNok(person) {
+        return person.alder >= 18;
+    }
+
+
+
+
+</script>
+
+</body>
+</html>
