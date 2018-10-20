@@ -29,7 +29,7 @@
         let celcius = (Number(fahrenheit.value)-32)/(9/5);
 
         svarE.innerHTML =
-            `${fahrenheit.value}°F = ${celcius}°C`;
+            `${fahrenheit.value}°F = ${celcius.toFixed(1)}°C`;
 
         fahrenheit.value = '';
         return false;
