@@ -23,8 +23,8 @@
       <file leaf-file-name="test.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/10_Form/test.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="470">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state>
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -32,8 +32,8 @@
       <file leaf-file-name="bildeKlikk.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/07-DOM/bildeKlikk.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="291">
+              <caret line="12" column="46" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -41,17 +41,17 @@
       <file leaf-file-name="10.1-FormInput.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/10_Form/10.1-FormInput.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="632">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            <state relative-caret-position="285">
+              <caret line="19" column="4" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="farenTilCel.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="farenTilCel.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/10_Form/farenTilCel.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="650">
-              <caret line="39" column="7" lean-forward="true" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
+            <state relative-caret-position="196">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -59,8 +59,8 @@
       <file leaf-file-name="form.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/10_Form/form.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="17" selection-start-line="22" selection-end-line="23" />
+            <state relative-caret-position="447">
+              <caret line="17" column="53" lean-forward="true" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -68,8 +68,26 @@
       <file leaf-file-name="degFar.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/10_Form/degFar.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="22" selection-end-column="21" />
+            <state relative-caret-position="246">
+              <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Oppgave1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/10_Form/Oppgave1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="553">
+              <caret line="33" column="58" selection-start-line="33" selection-start-column="58" selection-end-line="33" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Oppgave2.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/10_Form/Oppgave2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -112,8 +130,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/01-Undervisningsnotater/02-Variabler-datatyper-og-opratorer/2.3-Operatorer.html" />
-        <option value="$PROJECT_DIR$/01-Undervisningsnotater/03-Kontrollstruktur-(valg-og-løkker)/01-.html" />
         <option value="$PROJECT_DIR$/03-Løsningsforslag/02-Andre-oppgaver/02-Variabler-datatyper-og-operatorer/01-Celsius-til-fahrenheit.html" />
         <option value="$PROJECT_DIR$/03-Løsningsforslag/02-Andre-oppgaver/02-Variabler-datatyper-og-operatorer/02-Beregning-av-energiforbruk.html" />
         <option value="$PROJECT_DIR$/03-Løsningsforslag/02-Andre-oppgaver/02-Variabler-datatyper-og-operatorer/03-Kontokalkulator.html" />
@@ -158,11 +174,13 @@
         <option value="$PROJECT_DIR$/Fagdag1-kap8-kap9/Stein-saks-papir_v2/style.css" />
         <option value="$PROJECT_DIR$/Fagdag1-kap8-kap9/Stein-saks-papir_v2/index.html" />
         <option value="$PROJECT_DIR$/Fagdag1-kap8-kap9/Stein-saks-papir_v2/main.js" />
-        <option value="$PROJECT_DIR$/01-Undervisningsnotater/10_Form/form.html" />
         <option value="$PROJECT_DIR$/01-Undervisningsnotater/10_Form/test.html" />
         <option value="$PROJECT_DIR$/01-Undervisningsnotater/07-DOM/bildeKlikk.html" />
-        <option value="$PROJECT_DIR$/01-Undervisningsnotater/10_Form/10.1-FormInput.html" />
         <option value="$PROJECT_DIR$/01-Undervisningsnotater/10_Form/farenTilCel.html" />
+        <option value="$PROJECT_DIR$/01-Undervisningsnotater/10_Form/form.html" />
+        <option value="$PROJECT_DIR$/01-Undervisningsnotater/10_Form/10.1-FormInput.html" />
+        <option value="$PROJECT_DIR$/01-Undervisningsnotater/10_Form/optionSelect.html" />
+        <option value="$PROJECT_DIR$/01-Undervisningsnotater/10_Form/Oppgave2.html" />
       </list>
     </option>
   </component>
@@ -190,7 +208,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -244,6 +261,7 @@
         </subPane>
         <option name="show-excluded-files" value="false" />
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -256,7 +274,7 @@
     <property name="node.js.selected.package.prettier" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -316,26 +334,28 @@
       <workItem from="1538842559470" duration="6676000" />
       <workItem from="1539597086208" duration="5737000" />
       <workItem from="1539850241905" duration="7199000" />
+      <workItem from="1540146812466" duration="305000" />
+      <workItem from="1540196386195" duration="5580000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="158538000" />
+    <option name="totallyTimeSpent" value="164423000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.33518666" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25376734" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32863188" />
       <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32863188" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.2494043" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3295099" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39937434" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -357,20 +377,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/03-Løsningsforslag/02-Andre-oppgaver/02-Variabler-datatyper-og-operatorer/01-Celsius-til-fahrenheit.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="10" column="50" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/block.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1125">
-          <caret line="60" column="16" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/02-Oppgaver/02-Variabler-datatyper-og-operatorer.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -678,43 +684,57 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/10_Form/test.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/10_Form/degFar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="22" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/07-DOM/bildeKlikk.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/10_Form/form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="17" selection-start-line="22" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/10_Form/10.1-FormInput.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="632">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        <state>
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/10_Form/farenTilCel.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="39" column="7" lean-forward="true" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
+        <state relative-caret-position="196">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/07-DOM/bildeKlikk.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="12" column="46" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/10_Form/form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="17" column="53" lean-forward="true" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/10_Form/degFar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/10_Form/10.1-FormInput.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="4" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/10_Form/Oppgave1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="33" column="58" selection-start-line="33" selection-start-column="58" selection-end-line="33" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/10_Form/Oppgave2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
         </state>
       </provider>
     </entry>

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+</head>
+<body>
+
+<form id="valuttaForm">
+    <div class="form-group">
+        <input name="verdi" type="number">
+        <select name="valutta">
+            <option value="Dollar">Dollar</option>
+            <option value="Pund">Pund</option>
+            <option value="Euro">Euro</option>
+        </select>
+        <input type="submit">
+    </div>
+</form>
+
+<p id="svar"></p>
+
+<script>
+    let formE = document.querySelector('#valuttaForm');
+    let svarE = document.querySelector('#svar');
+    //formE['valutta'].value   Den valgte verdien fra nedtrekk
+    formE.onsubmit = function () {
+        let verdi = Number(formE['verdi'].value);
+        let valutta = formE['valutta'].value;
+
+        if(valutta === 'Dollar'){
+            let dollar = verdi*8.2350616;
+            svarE.innerHTML = `${dollar.toFixed(2)} USD = ${verdi.toFixed(2)} NOK`;
+        }
+        else if(valutta === 'Pund'){
+            let pund = verdi*10.7241337;
+            svarE.innerHTML = `${pund.toFixed(2)} GBP = ${verdi.toFixed(2)} NOK`;
+        }
+        else if(valutta === 'Euro'){
+            let euro = verdi*9.4688797;
+            svarE.innerHTML = `${euro.toFixed(2)} EURO = ${verdi.toFixed(2)} NOK`;
+        }
+
+        return false
+
+    }
+
+</script>
+
+
+</body>
+</html>
