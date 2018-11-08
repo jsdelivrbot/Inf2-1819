@@ -7,6 +7,12 @@ let bilNr = Math.floor(Math.random()*3);
 //Boolsk variabel for å
 valgt = false;
 
+
+/**
+ *
+ * @param dor
+ * @param valgNr
+ */
 function klikkhandling(dor, valgNr) {
     dor.addEventListener('click', function () {
         let visNr = valgNr;

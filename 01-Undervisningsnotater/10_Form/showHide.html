@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Show - hide</title>
+
+    <style>
+        #innhold{
+            display: none;
+        }
+    </style>
+</head>
+<body>
+
+<button id="knapp">Vis H1</button>
+
+<div id="innhold">
+    <h1>Denne boksen syns først nåt du trykker på knappen</h1>
+</div>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio dolorem ea illum iste minima sit voluptate? Assumenda autem commodi exercitationem libero minus nemo quis, quisquam vero. Ex magnam temporibus unde.</p>
+
+<script>
+    let knappE   = document.querySelector('#knapp');
+    let innholdE = document.querySelector('#innhold');
+
+    knappE.addEventListener('click', function () {
+        if(innholdE.style.display  === 'none'){
+            innholdE.style.display  = 'block';
+            knappE.innerHTML = 'Fjern H1'
+        }
+        else{
+            innholdE.style.display  = 'none';
+            knappE.innerHTML = 'Vis H1'
+        }
+    })
+</script>
+</body>
+</html>

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Array</title>
+</head>
+<body>
+
+<script>
+    // Oppretter array med frukter
+    let frukter = ['Annanas', 'Eple', 'Banan'];
+
+    // Hente verdier
+    // Første element:
+    console.log(frukter[0]);
+
+    // Lengden til Arrayet:
+    console.log(frukter.length);
+
+    // Siste element i Arrayet
+    console.log(frukter[frukter.length-1]);
+
+
+    // Straversere alle elementene i en liste
+    // alternativ 1
+    for(let i in frukter){
+        let frukt = frukter[i];
+        console.log(i, frukt);
+    }
+    // alternativ 2
+    for(let i = 0; i<frukter.length; i++){
+        let frukt = frukter[i];
+        console.log(i, frukt);
+    }
+
+    //alternativ 3
+    // i er indeks og frukt elemnt i Array
+    frukter.forEach(function (frukt, i) {
+        console.log(i, frukt);
+    });
+
+    // Ny frukt
+    frukter.push('Pære');
+    console.log(frukter);
+
+
+    //Array med tall
+    let tallene = [1, 7, 3, 9, 10];
+    tallene[1] = 99;
+    console.log('Hei', tallene);
+
+    // Map gjør noe mead verdiene i arrayet og lager en kopi
+    // legg til 2 til hvert element
+
+    let tallenePluss2 = tallene.map(x => x + 2);
+    console.log(tallenePluss2);
+
+    let talleneIAndre = tallene.map(x => x**2);
+    console.log(talleneIAndre);
+
+    let talleneTekst = ['en', 'to', 'tre', 'fire', 'fem', 'seks', 'syv']
+    tallene = [1,2,3,4,5,6,7];
+
+    tallene.forEach(function (tall, i) {
+        if(tall%2 != 0){
+            tallene[i] = talleneTekst[i];
+        }
+    });
+
+    console.log(tallene);
+
+
+    let test = tallen.map(x => (x%2!=0) ? 'Hei':0);
+    console.log(test);
+
+
+
+
+
+
+
+
+
+</script>
+
+</body>
+</html>

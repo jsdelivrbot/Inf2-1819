@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<div id="app">
+    {{ message }}
+    <ul>
+        <li v-for="person in personer" v-if="person.vis">{{ person.fornavn }} {{ person.etternavn }} </li>
+    </ul>
+
+    <input type="text"  v-bind:value="fornavn">
+    <input type="text"  v-bind:value="ertternavn">
+    <button v-on:ckick="addPerson">Legg til person</button>
+
+
+
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script src="main.js"></script>
+</body>
+</html>
