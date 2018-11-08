@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<script>
+    /**
+     * Funksjon som tar en liste med tall og returner
+     * den minste verdien i lista
+     * @param liste
+     * @returns min i liste
+     */
+    function getMin(liste) {
+        let min = liste[0];
+        for(let i=0; i<liste.length; i++){
+            if(liste[i]<min){
+                min = liste[i]
+            }
+        }
+        return min
+    }
+    function getMin2(liste) {
+        let min = liste[0];
+        liste.forEach(function (el) {
+            if(el<min){
+                min = el;
+            }
+        });
+        return min
+    }
+    function getMin3(liste) {
+        return liste.sort()[0];
+    }
+    function getMin4(liste) {
+        return Math.min.apply(Math, liste);
+    }
+
+    let minListe = [4,6,3,2,7,9,1,56,-99,6];
+    console.log(getMin(minListe));
+    console.log(getMin2(minListe));
+    console.log(getMin3(minListe));
+    console.log(getMin4(minListe));
+</script>
+
+</body>
+</html>
