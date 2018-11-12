@@ -80,8 +80,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/11_LIster/Oppgave-11.9/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="542">
-              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+            <state relative-caret-position="148">
+              <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
               <folding>
                 <element signature="n#!!doc;n#leggTilValgteFrukterTilListe#0" />
                 <element signature="n#!!block;n#leggTilValgteFrukterTilListe#0" />
@@ -387,12 +387,12 @@
       <workItem from="1541152135042" duration="5441000" />
       <workItem from="1541401113507" duration="252000" />
       <workItem from="1541414895075" duration="3663000" />
-      <workItem from="1541614293207" duration="18809000" />
+      <workItem from="1541614293207" duration="18959000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="202863000" />
+    <option name="totallyTimeSpent" value="203013000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -775,8 +775,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/11_LIster/Oppgave-11.9/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="542">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="148">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
           <folding>
             <element signature="n#!!doc;n#leggTilValgteFrukterTilListe#0" />
             <element signature="n#!!block;n#leggTilValgteFrukterTilListe#0" />

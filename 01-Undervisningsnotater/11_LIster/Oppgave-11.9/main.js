@@ -1,6 +1,5 @@
 let formE = document.querySelector('#fruktvalg');
-let fruktvalgE =
-    document.querySelectorAll('input[type="checkbox"]');
+let fruktvalgE = document.querySelectorAll('input[type="checkbox"]');
 let favorittfrukter = [];
 /**
  * Funksjon som kjøres når vi sender skjemaet
