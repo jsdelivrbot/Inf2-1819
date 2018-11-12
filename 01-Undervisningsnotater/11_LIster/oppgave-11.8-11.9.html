@@ -8,7 +8,7 @@
 
 <form>
     Eple:<input type="checkbox" value="Eple"><br>
-    Pære:<input type="checkbox" value=" Pære"><br>
+    Pære:<input type="checkbox" value="Pære"><br>
     Annanas:<input type="checkbox" value="Annanas"><br>
     Kiwi:<input type="checkbox" value="Kiwi"><br>
     Appelsin:<input type="checkbox" value="Appelsin"><br>
@@ -20,12 +20,40 @@
     <input id=knapp' name='knapp' type="submit">
 </form>
 
+    <p><b>Favorittfrukter:</b><ul id="favFrukter"></ul></p>
+
 <script>
     let bokser = document.querySelectorAll('input[type="checkbox"]');
-    let knapp = document.querySelector('#knapp');
+    let formE = document.forms[0];
+    let favFrukterE = document.querySelector('#favFrukter');
+    let favorittfrukter = [];
 
-    
-    console.log(bokser)
+    formE.onsubmit = function (e) {
+        e.preventDefault();
+        favorittfrukter = [];
+        bokser.forEach(function (boks) {
+           if(boks.checked === true){
+               favorittfrukter.push(boks.value)
+           }
+        });
+        favFrukterUtskrift(favorittfrukter);
+        nullstillForm();
+    }
+
+    function favFrukterUtskrift(frukter){
+        favFrukterE.innerHTML = '';
+        frukter.forEach(function (frukt) {
+            favFrukterE.innerHTML += ` <li>${frukt}</li>`;
+        })
+
+    }
+
+    function nullstillForm() {
+        bokser.forEach(function (boks) {
+                boks.checked = false;
+        });
+    }
+
 </script>
 </body>
 </html>
