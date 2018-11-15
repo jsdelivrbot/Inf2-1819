@@ -7,7 +7,6 @@ let bilNr = Math.floor(Math.random()*3);
 //Boolsk variabel for å
 valgt = false;
 
-
 /**
  *
  * @param dor
