@@ -56,6 +56,7 @@ Lag en  kalkulator med et felt for input/svar, og kanpper som representerer tall
 
 #### Vurderingskriterier
 
+* Denne oppgaven krever seperat js -og html-fil
 * Siden skal validere uten feil og advarsler i konsollvinduet.
 * Programmet skal utføre de fire regneartene og skrive ut resultatet på skjermen.
 * Det skal komme klart frem av forklaringen hvordan du har løst problemet.
