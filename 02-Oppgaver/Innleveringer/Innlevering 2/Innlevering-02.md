@@ -4,10 +4,6 @@
 
 Lag en vitsemaskin. Brukeren trykker på en knapp, og det vises en tilfeldig vits på skjermen.
 
-#### Ressurser
-
-* Du trenger en teksteditor og en nettleser til denne oppgaven.
-
 #### Vurderingskriterier
 
 * Siden skal validere uten feil og advarsler i konsollvinduet.
@@ -30,11 +26,6 @@ Lag et program som foretar en lottotrekning. For hver gang brukeren trykker på 
 
 En lottorekke består av syv unike tilfeldige tall mellom 1 og 34.
 
-#### Ressurser
-
-* Du trenger en teksteditor og en nettleser til denne oppgaven.
-* Les mer om variabler på [w3schools](http://www.w3schools.com/js/js_functions.asp)
-
 #### Vurderingskriterier
 
 * Det skal lages flytskjema
@@ -53,11 +44,6 @@ En lottorekke består av syv unike tilfeldige tall mellom 1 og 34.
 ## Oppgave 3
 
 Lag en enkel kalkulator med to inputfelt, fire knapper og ett felt der svaret skrives ut. Knappene representerer de fire regneartene pluss, minus, gange og dele. Når man skriver inn tall i inputfeltene skal du kunne trykke på en av knappene for å utføre tilhørende operasjon. Resultatet skal skrives ut på skjermen. Skriv en kort forklaring på om hvordan du har løst oppgaven.
-
-#### Ressurser
-
-* Du trenger en teksteditor og en nettleser til denne oppgaven.
-* Les mer om inputfelt på [w3schools](http://www.w3schools.com/tags/tag_input.asp)
 
 #### Vurderingskriterier
 
