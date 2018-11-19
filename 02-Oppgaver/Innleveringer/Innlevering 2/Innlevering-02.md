@@ -6,6 +6,7 @@ Lag en vitsemaskin. Brukeren trykker på en knapp, og det vises en tilfeldig vit
 
 #### Vurderingskriterier
 
+* Skriv psaudokode (s139)
 * Siden skal validere uten feil og advarsler i konsollvinduet.
 * Programmet skal vise minst fem ulike vitser.
 * Det skal komme klart frem av koden hvordan du har løst problemet.
