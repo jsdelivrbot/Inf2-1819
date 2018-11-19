@@ -1,5 +1,8 @@
 # Innlevering 2
 
+Alle oppgavene skal i egen mappe som igjen samles i en overordan innleveringsmappe som komprimeres (zip)
+Det er viktig med ryddig filstruktur og kode. Bruk funksjoner der du kan og gi dem fornuftige navn. 
+
 ## Oppgave 1
 
 Lag en vitsemaskin. Brukeren trykker på en knapp, og det vises en tilfeldig vits på skjermen.

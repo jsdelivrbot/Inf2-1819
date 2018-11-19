@@ -3,8 +3,61 @@
 <head>
     <meta charset="UTF-8">
     <title>Kalkulator</title>
+
+    <style>
+        @import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400');
+        body{
+            background-color: #333332;
+        }
+        #grid{
+            font-family: 'Roboto', sans-serif;
+            font-weight: 100;
+            margin: 0 auto;
+            display: grid;
+            width:80px;
+            grid-template-columns: repeat(4, 1fr);
+            grid-template-rows: repeat(4, 1fr);
+            grid-gap: 1px;
+            color: #ffffff;
+            text-align: center;
+            background-color: #525356;
+        }
+        #input{
+            grid-column-end: span 4;
+            text-align: right;
+            padding-right: 3px;
+        }
+        #null{
+            grid-column-end: span 2;
+        }
+        .operasjon{
+            background-color: #ff940e;
+        }
+        .tall{
+            background-color: #7d7d80;
+        }
+    </style>
 </head>
 <body>
+
+    <div id="grid">
+        <div id="input">19273</div>
+        <div class="tall">7</div>
+        <div class="tall">8</div>
+        <div class="tall">9</div>
+        <div class='operasjon' id="dele">/</div>
+        <div class="tall">4</div>
+        <div class="tall">5</div>
+        <div class="tall">6</div>
+        <div class='operasjon' id="gange">*</div>
+        <div class="tall">1</div>
+        <div class="tall">2</div>
+        <div class="tall">3</div>
+        <div class='operasjon' id="minus">-</div>
+        <div class="tall" id="null">0</div>
+        <div class='operasjon' id="erLik">=</div>
+        <div class='operasjon' id="pluss">+</div>
+    </div>
 
 </body>
 </html>
