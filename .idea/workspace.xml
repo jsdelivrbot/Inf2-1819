@@ -24,15 +24,16 @@
     <session id="-1361937461">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="17" />
+          <entry key="project.closed" value="19" />
           <entry key="project.open.time.10" value="2" />
-          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.11" value="3" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="4" />
           <entry key="project.open.time.9" value="7" />
-          <entry key="project.opened" value="18" />
+          <entry key="project.opened" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
@@ -46,6 +47,7 @@
           <entry key="css" value="1" />
           <entry key="html" value="28" />
           <entry key="js" value="14" />
+          <entry key="md" value="5" />
           <entry key="vue" value="1" />
         </counts>
       </usages-collector>
@@ -54,6 +56,7 @@
           <entry key="CSS" value="7" />
           <entry key="HTML" value="4421" />
           <entry key="JavaScript" value="1520" />
+          <entry key="Markdown" value="108" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -61,6 +64,8 @@
           <entry key="CSS" value="1" />
           <entry key="HTML" value="29" />
           <entry key="JavaScript" value="12" />
+          <entry key="Markdown" value="4" />
+          <entry key="PLAIN_TEXT" value="1" />
           <entry key="Scratch" value="1" />
           <entry key="UML" value="1" />
           <entry key="Vue.js" value="1" />
@@ -73,27 +78,34 @@
           <entry key="css" value="7" />
           <entry key="html" value="4421" />
           <entry key="js" value="1514" />
+          <entry key="md" value="108" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/11_LIster/Oppgave-11.9/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
+            <state relative-caret-position="69">
               <caret line="3" selection-start-line="3" selection-end-line="3" />
               <folding>
-                <element signature="e#146#211#0" />
-                <element signature="e#241#408#0" />
-                <element signature="n#!!doc;n#leggTilValgteFrukterTilListe#0" />
-                <element signature="n#!!block;n#leggTilValgteFrukterTilListe#0" />
-                <element signature="n#!!doc;n#nullstillForm#0" />
-                <element signature="n#!!block;n#nullstillForm#0" />
                 <element signature="n#!!doc;n#skrivUtFavorittfrukter#0" />
                 <element signature="n#!!block;n#skrivUtFavorittfrukter#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/02-Oppgaver/Innleveringer/Innlevering 2/Innlevering-02.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="1702">
+                <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -151,8 +163,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/03-Løsningsforslag/01-Oppgaver -fra-boka/04-Funksjoner/4.9-To-like.html" />
-        <option value="$PROJECT_DIR$/03-Løsningsforslag/01-Oppgaver -fra-boka/04-Funksjoner/4.10-Like-eller-sum7.html" />
         <option value="$PROJECT_DIR$/03-Løsningsforslag/01-Oppgaver -fra-boka/04-Funksjoner/4.12-Tre-terninger.html" />
         <option value="$PROJECT_DIR$/03-Løsningsforslag/01-Oppgaver -fra-boka/04-Funksjoner/4.12-yatzy.html" />
         <option value="$PROJECT_DIR$/03-Løsningsforslag/04-Innleveringer/innlevering1.html" />
@@ -202,6 +212,8 @@
         <option value="$PROJECT_DIR$/01-Undervisningsnotater/11_LIster/Oppgave-11.9/index.html" />
         <option value="$PROJECT_DIR$/Fagdag1-kap8-kap9/Monty-Hall/main.js" />
         <option value="$PROJECT_DIR$/01-Undervisningsnotater/11_LIster/Oppgave-11.9/main.js" />
+        <option value="$PROJECT_DIR$/02-Oppgaver/Innleveringer/Innlevering 2/Input-03.md" />
+        <option value="$PROJECT_DIR$/02-Oppgaver/Innleveringer/Innlevering 2/Innlevering-02.md" />
       </list>
     </option>
   </component>
@@ -217,7 +229,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1680" />
     <option name="height" value="1050" />
   </component>
@@ -246,6 +258,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -261,23 +274,20 @@
             <path>
               <item name="Inf2-1819" type="b2602c69:ProjectViewProjectNode" />
               <item name="Inf2-1819" type="462c0819:PsiDirectoryNode" />
-              <item name="01-Undervisningsnotater" type="462c0819:PsiDirectoryNode" />
-              <item name="11_LIster" type="462c0819:PsiDirectoryNode" />
+              <item name="02-Oppgaver" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Inf2-1819" type="b2602c69:ProjectViewProjectNode" />
               <item name="Inf2-1819" type="462c0819:PsiDirectoryNode" />
-              <item name="01-Undervisningsnotater" type="462c0819:PsiDirectoryNode" />
-              <item name="11_LIster" type="462c0819:PsiDirectoryNode" />
-              <item name="Oppgave-11.9" type="462c0819:PsiDirectoryNode" />
+              <item name="02-Oppgaver" type="462c0819:PsiDirectoryNode" />
+              <item name="Innleveringer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Inf2-1819" type="b2602c69:ProjectViewProjectNode" />
               <item name="Inf2-1819" type="462c0819:PsiDirectoryNode" />
-              <item name="01-Undervisningsnotater" type="462c0819:PsiDirectoryNode" />
-              <item name="11_LIster" type="462c0819:PsiDirectoryNode" />
-              <item name="Oppgave-11.9" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="02-Oppgaver" type="462c0819:PsiDirectoryNode" />
+              <item name="Innleveringer" type="462c0819:PsiDirectoryNode" />
+              <item name="Innlevering 2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Inf2-1819" type="b2602c69:ProjectViewProjectNode" />
@@ -289,7 +299,6 @@
         </subPane>
         <option name="show-excluded-files" value="false" />
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -397,15 +406,17 @@
       <workItem from="1541614293207" duration="20373000" />
       <workItem from="1542268037538" duration="110000" />
       <workItem from="1542268200860" duration="399000" />
-      <workItem from="1542269170667" duration="6117000" />
+      <workItem from="1542269170667" duration="6341000" />
+      <workItem from="1542448132366" duration="55000" />
+      <workItem from="1542448240364" duration="1539000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="211053000" />
+    <option name="totallyTimeSpent" value="212871000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17359856" />
@@ -440,35 +451,6 @@
     </ignored-roots>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/04-Funksjoner/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/innlevering_vol2.html" />
-    <entry file="file://$PROJECT_DIR$/03-Løsningsforslag/04-Innleveringer/innlevering1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="60" column="9" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-Løsningsforslag/01-Oppgaver -fra-boka/04-Funksjoner/4.12-yatzy.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="8" column="215" selection-start-line="8" selection-start-column="215" selection-end-line="8" selection-end-column="215" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/07-DOM/artikkel.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="840">
@@ -743,13 +725,6 @@
     <entry file="file://$PROJECT_DIR$/Fagdag1-kap8-kap9/Monty-Hall/out/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/11_LIster/Oppgave-11.9/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="uml://JavaScript-modules-diagram//Users/madsor/OneDrive - Møre og Romsdal Fylkeskommune/00_MoldeVGS/IT-2/Inf2-1819/01-Undervisningsnotater/11_LIster/Oppgave-11.9/main.js">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -763,6 +738,7 @@
           <Categories>
             <Category>All</Category>
           </Categories>
+          <SCOPE>All</SCOPE>
           <VISIBILITY>Details</VISIBILITY>
         </state>
       </provider>
@@ -770,20 +746,70 @@
     <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/11_LIster/Oppgave-11.9/out/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/11_LIster/Oppgave-11.9/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-Oppgaver/Innleveringer/Innlevering 2/Input-01.md">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-Oppgaver/Innleveringer/Innlevering 2/Lotto.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="461">
+            <caret line="25" selection-end-line="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-Oppgaver/Innleveringer/Innlevering 2/Input-02.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="551">
+            <caret line="23" column="75" lean-forward="true" selection-start-line="2" selection-end-line="23" selection-end-column="75" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-Oppgaver/Innleveringer/Innlevering 2/Input-03.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="461">
+            <caret line="24" column="75" lean-forward="true" selection-start-line="2" selection-end-line="24" selection-end-column="75" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/11_LIster/Oppgave-11.9/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
+        <state relative-caret-position="69">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
           <folding>
-            <element signature="e#146#211#0" />
-            <element signature="e#241#408#0" />
-            <element signature="n#!!doc;n#leggTilValgteFrukterTilListe#0" />
-            <element signature="n#!!block;n#leggTilValgteFrukterTilListe#0" />
-            <element signature="n#!!doc;n#nullstillForm#0" />
-            <element signature="n#!!block;n#nullstillForm#0" />
             <element signature="n#!!doc;n#skrivUtFavorittfrukter#0" />
             <element signature="n#!!block;n#skrivUtFavorittfrukter#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-Oppgaver/Innleveringer/Innlevering 2/Innlevering-02.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1702">
+            <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
