@@ -6,7 +6,7 @@ Lag en vitsemaskin. Brukeren trykker på en knapp, og det vises en tilfeldig vit
 
 #### Vurderingskriterier
 
-* Skriv psaudokode (s139)
+* Skriv pseudokode (s139)
 * Siden skal validere uten feil og advarsler i konsollvinduet.
 * Programmet skal vise minst fem ulike vitser.
 * Det skal komme klart frem av koden hvordan du har løst problemet.
@@ -40,7 +40,6 @@ En lottorekke består av syv unike tilfeldige tall mellom 1 og 34.
 * definere variabler og velge hensiktsmessige datatyper
 * tilordne uttrykk til variabler
 * programmere med enkle og indekserte variabler eller andre kolleksjoner av variabler
-
 
 ## Oppgave 3
 
