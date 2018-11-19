@@ -49,8 +49,8 @@ Lag en enkel kalkulator med to inputfelt, fire knapper og ett felt der svaret sk
 **Vanskelig**
 Lag en  kalkulator med et inputfelt, fem knapper og ett felt der svaret skrives ut. Knappene representerer de fire regneartene pluss, minus, gange og dele, og =. Når man skriver inn tall i inputfeltene skal du kunne trykke på en av knappene for å legge til neste tall i operasjonen. Resultatet skal skrives ut på skjermen når man trykker på =. Skriv en kort forklaring på om hvordan du har løst oppgaven og legg ved dokumentasjon.
 
-**Veldig vanskelig**
-Lag en  kalkulator med et felt for input/svar, og kanpper som representerer tallene fra 0-9 og de fire regneartene pluss, minus, gange og dele. Programmet skal fungere som en kalkulator på maskinen din. Skriv en kort forklaring på om hvordan du har løst oppgaven og legg ved dokumentasjon.
+**'Veldig' vanskelig**
+Lag en  kalkulator med et felt for input/svar, og kanpper som representerer tallene fra 0-9 og de fire regneartene pluss, minus, gange og dele. Programmet skal fungere som en kalkulator på maskinen din, men trenger bare å fungere med heltall. Skriv en kort forklaring på om hvordan du har løst oppgaven og legg ved dokumentasjon.
 
 ![alt text](kalkis.png "Kalkulator")
 
