@@ -34,8 +34,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/Animasjon2/Intro/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="33" selection-start-column="33" selection-end-column="33" />
+            <state relative-caret-position="553">
+              <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -311,12 +311,12 @@
       <workItem from="1542448132366" duration="55000" />
       <workItem from="1542448240364" duration="7709000" />
       <workItem from="1542827172737" duration="5098000" />
-      <workItem from="1542835841862" duration="17673000" />
+      <workItem from="1542835841862" duration="18795000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="241812000" />
+    <option name="totallyTimeSpent" value="242934000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
@@ -634,8 +634,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/Animasjon2/Intro/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="33" selection-start-column="33" selection-end-column="33" />
+        <state relative-caret-position="553">
+          <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
         </state>
       </provider>
     </entry>
