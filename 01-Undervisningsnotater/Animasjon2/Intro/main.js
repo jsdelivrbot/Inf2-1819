@@ -1,0 +1,1 @@
+TweenMax.to('#boks1',2, {x:165});
