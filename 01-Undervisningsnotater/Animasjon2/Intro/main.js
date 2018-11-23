@@ -21,4 +21,29 @@ TweenMax.from('#boks5', 2, {
     scale:0,
     y:-400,
     ease: Elastic.easeOut.config(1, 0.3),
-})
+});
+
+TweenMax.from('#boks6', 2, {
+    opacity:0,
+    scale:0,
+    y:-400,
+    x:-400,
+    ease: Elastic.easeOut.config(1, 0.3),
+    yoyo:true,
+    repeat:6
+});
+
+TweenMax.to('#boks7', 1, {
+    rotation: 360,
+    x:80,
+    y:80,
+    scale:6,
+    repeat: 5,
+    yoyo: true
+});
+
+TweenMax.to('#propell', 10, {
+    rotation: 10800,
+    repeat: 5,
+    yoyo: true
+});

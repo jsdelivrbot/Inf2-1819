@@ -23,19 +23,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/Animasjon2/Intro/index.html">
+        <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/Animasjon2/lotto/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="25" />
+            <state relative-caret-position="227">
+              <caret line="51" column="23" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/Animasjon/liste_med_kuler/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="461">
+              <caret line="66" column="35" lean-forward="true" selection-start-line="65" selection-start-column="2" selection-end-line="66" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/Animasjon2/Intro/main.js">
+        <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/Animasjon2/lotto/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="553">
-              <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+            <state relative-caret-position="610">
+              <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -79,9 +88,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Fagdag1/Stein-saks-papir/index.html" />
-        <option value="$PROJECT_DIR$/Fagdag1/Stein-saks-papir/main.js" />
-        <option value="$PROJECT_DIR$/Fagdag1/test.html" />
         <option value="$PROJECT_DIR$/01-Undervisningsnotater/form.html" />
         <option value="$PROJECT_DIR$/01-Undervisningsnotater/10_Form/degFar.html" />
         <option value="$PROJECT_DIR$/01-Undervisningsnotater/11_LIster/test.html" />
@@ -126,10 +132,13 @@
         <option value="$PROJECT_DIR$/01-Undervisningsnotater/Animasjon/spill2/main.js" />
         <option value="$PROJECT_DIR$/01-Undervisningsnotater/Animasjon/spill/intro.html" />
         <option value="$PROJECT_DIR$/01-Undervisningsnotater/Animasjon/spill/main.js" />
-        <option value="$PROJECT_DIR$/01-Undervisningsnotater/Animasjon/liste_med_kuler/index.html" />
         <option value="$PROJECT_DIR$/01-Undervisningsnotater/Animasjon/liste_med_kuler/main.js" />
-        <option value="$PROJECT_DIR$/01-Undervisningsnotater/Animasjon2/Intro/index.html" />
         <option value="$PROJECT_DIR$/01-Undervisningsnotater/Animasjon2/Intro/main.js" />
+        <option value="$PROJECT_DIR$/01-Undervisningsnotater/Animasjon2/Intro/index.html" />
+        <option value="$PROJECT_DIR$/01-Undervisningsnotater/Animasjon/intro/index.html" />
+        <option value="$PROJECT_DIR$/01-Undervisningsnotater/Animasjon/liste_med_kuler/index.html" />
+        <option value="$PROJECT_DIR$/01-Undervisningsnotater/Animasjon2/lotto/index.html" />
+        <option value="$PROJECT_DIR$/01-Undervisningsnotater/Animasjon2/lotto/main.js" />
       </list>
     </option>
   </component>
@@ -185,6 +194,19 @@
               <item name="Inf2-1819" type="b2602c69:ProjectViewProjectNode" />
               <item name="Inf2-1819" type="462c0819:PsiDirectoryNode" />
               <item name="01-Undervisningsnotater" type="462c0819:PsiDirectoryNode" />
+              <item name="Animasjon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Inf2-1819" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Inf2-1819" type="462c0819:PsiDirectoryNode" />
+              <item name="01-Undervisningsnotater" type="462c0819:PsiDirectoryNode" />
+              <item name="Animasjon" type="462c0819:PsiDirectoryNode" />
+              <item name="liste_med_kuler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Inf2-1819" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Inf2-1819" type="462c0819:PsiDirectoryNode" />
+              <item name="01-Undervisningsnotater" type="462c0819:PsiDirectoryNode" />
               <item name="Animasjon2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -192,7 +214,7 @@
               <item name="Inf2-1819" type="462c0819:PsiDirectoryNode" />
               <item name="01-Undervisningsnotater" type="462c0819:PsiDirectoryNode" />
               <item name="Animasjon2" type="462c0819:PsiDirectoryNode" />
-              <item name="Intro" type="462c0819:PsiDirectoryNode" />
+              <item name="lotto" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -311,12 +333,12 @@
       <workItem from="1542448132366" duration="55000" />
       <workItem from="1542448240364" duration="7709000" />
       <workItem from="1542827172737" duration="5098000" />
-      <workItem from="1542835841862" duration="18795000" />
+      <workItem from="1542835841862" duration="23989000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="242934000" />
+    <option name="totallyTimeSpent" value="248128000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
@@ -351,27 +373,6 @@
     </ignored-roots>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/10_Form/Oppgave1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/04-Funksjoner/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fagdag1-kap8-kap9/Monty-Hall/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1311">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/07-DOM/01-GetDiv.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="809">
@@ -549,13 +550,6 @@
     <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/Animasjon/intro/TimelineMax.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/Animasjon/spill2/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/Animasjon/spill2/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="759">
@@ -604,38 +598,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/Animasjon/spill/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/Animasjon/spill/intro.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="761">
-          <caret line="55" column="76" selection-start-line="55" selection-end-line="56" />
+        <state relative-caret-position="-133">
+          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/Animasjon/liste_med_kuler/index.html">
+    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/Animasjon/spill/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="138">
+          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="14" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/Animasjon2/Intro/index.html">
+    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/Animasjon/spill2/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="25" />
+        <state relative-caret-position="138">
+          <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/Animasjon2/Intro/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="553">
-          <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+        <state relative-caret-position="402">
+          <caret line="47" column="14" selection-start-line="47" selection-start-column="10" selection-end-line="47" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/Animasjon/intro/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/Animasjon2/Intro/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/Animasjon/liste_med_kuler/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="66" column="35" lean-forward="true" selection-start-line="65" selection-start-column="2" selection-end-line="66" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/Animasjon2/lotto/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="51" column="23" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/Animasjon2/lotto/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="610">
+          <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
         </state>
       </provider>
     </entry>
