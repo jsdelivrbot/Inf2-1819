@@ -40,7 +40,7 @@ function nullstillForm() {
  * Funskjon som skriver ut favorittfruktlista til
  * en ul-liste i domen
  *
- * @param {string[]} favorittfrukter - En Array med favorittfruktene
+ * @param {string[]} favorittfrukter -En Array med favorittfruktene
  */
 function skrivUtFavorittfrukter(favorittfrukter) {
   let favorittfrukterE = document.querySelector("#favorittfrukter");

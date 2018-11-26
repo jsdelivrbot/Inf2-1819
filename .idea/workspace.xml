@@ -22,47 +22,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/Animasjon2/lotto/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="609">
-              <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/Animasjon/liste_med_kuler/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="51" column="31" selection-start-line="51" selection-start-column="31" selection-end-line="51" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/Animasjon2/lotto/main.js">
+        <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/Animasjon2/Oppgave-17.22.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+            <state relative-caret-position="274">
+              <caret line="70" column="41" selection-start-line="70" selection-start-column="41" selection-end-line="70" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/Vue/test/index.html">
+        <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/Animasjon2/test.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/Vue/test/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="-436">
+              <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -74,8 +47,8 @@
       <list>
         <option value="CSS File" />
         <option value="Vue Single File Component" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -106,8 +79,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/01-Undervisningsnotater/form.html" />
-        <option value="$PROJECT_DIR$/01-Undervisningsnotater/10_Form/degFar.html" />
         <option value="$PROJECT_DIR$/01-Undervisningsnotater/11_LIster/test.html" />
         <option value="$PROJECT_DIR$/Fagdag1-kap8-kap9/Stein-saks-papir_v2/style.css" />
         <option value="$PROJECT_DIR$/Fagdag1-kap8-kap9/Stein-saks-papir_v2/index.html" />
@@ -135,7 +106,6 @@
         <option value="$PROJECT_DIR$/01-Undervisningsnotater/11_LIster/oppgave11.9.html" />
         <option value="$PROJECT_DIR$/01-Undervisningsnotater/11_LIster/Oppgave-11.9/index.html" />
         <option value="$PROJECT_DIR$/Fagdag1-kap8-kap9/Monty-Hall/main.js" />
-        <option value="$PROJECT_DIR$/01-Undervisningsnotater/11_LIster/Oppgave-11.9/main.js" />
         <option value="$PROJECT_DIR$/02-Oppgaver/Innleveringer/Innlevering 2/Input-03.md" />
         <option value="$PROJECT_DIR$/02-Oppgaver/Innleveringer/Innlevering 2/pseudo.txt" />
         <option value="$PROJECT_DIR$/04-Annet/Kalkulator/main.js" />
@@ -155,8 +125,11 @@
         <option value="$PROJECT_DIR$/01-Undervisningsnotater/Animasjon2/Intro/index.html" />
         <option value="$PROJECT_DIR$/01-Undervisningsnotater/Animasjon/intro/index.html" />
         <option value="$PROJECT_DIR$/01-Undervisningsnotater/Animasjon/liste_med_kuler/index.html" />
-        <option value="$PROJECT_DIR$/01-Undervisningsnotater/Animasjon2/lotto/index.html" />
         <option value="$PROJECT_DIR$/01-Undervisningsnotater/Animasjon2/lotto/main.js" />
+        <option value="$PROJECT_DIR$/01-Undervisningsnotater/11_LIster/Oppgave-11.9/main.js" />
+        <option value="$PROJECT_DIR$/01-Undervisningsnotater/Animasjon2/lotto/index.html" />
+        <option value="$PROJECT_DIR$/01-Undervisningsnotater/Animasjon2/test.html" />
+        <option value="$PROJECT_DIR$/01-Undervisningsnotater/Animasjon2/Oppgave-17.22.html" />
       </list>
     </option>
   </component>
@@ -214,24 +187,6 @@
               <item name="Inf2-1819" type="462c0819:PsiDirectoryNode" />
               <item name="01-Undervisningsnotater" type="462c0819:PsiDirectoryNode" />
               <item name="Animasjon2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Inf2-1819" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Inf2-1819" type="462c0819:PsiDirectoryNode" />
-              <item name="01-Undervisningsnotater" type="462c0819:PsiDirectoryNode" />
-              <item name="Vue" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Inf2-1819" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Inf2-1819" type="462c0819:PsiDirectoryNode" />
-              <item name="01-Undervisningsnotater" type="462c0819:PsiDirectoryNode" />
-              <item name="Vue" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Inf2-1819" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Inf2-1819" type="462c0819:PsiDirectoryNode" />
-              <item name="03-Løsningsforslag" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -350,17 +305,37 @@
       <workItem from="1542448132366" duration="55000" />
       <workItem from="1542448240364" duration="7709000" />
       <workItem from="1542827172737" duration="5098000" />
-      <workItem from="1542835841862" duration="28032000" />
+      <workItem from="1542835841862" duration="33442000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="252171000" />
+    <option name="totallyTimeSpent" value="257581000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49585062" weight="0.2319301" />
+      <window_info id="Structure" order="1" sideWeight="0.5041494" side_tool="true" weight="0.22845088" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32987553" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3218274" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39898476" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.46918768" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.328934" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" weight="0.32863188" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="3" side_tool="true" weight="0.3297619" />
+    </layout>
+    <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49585062" visible="true" weight="0.23267028" />
       <window_info id="Structure" order="1" sideWeight="0.5041494" side_tool="true" weight="0.22845088" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -379,7 +354,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="3" side_tool="true" weight="0.3297619" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -390,23 +365,6 @@
     </ignored-roots>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/10_Form/showHideNedtrekk_v2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="827">
-          <caret line="42" column="7" lean-forward="true" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/10_Form/showHideNedtrekk.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="21" selection-start-line="21" selection-end-line="23" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/10_Form/showHide.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="736">
@@ -507,16 +465,6 @@
     <entry file="file://$PROJECT_DIR$/02-Oppgaver/Innleveringer/Innlevering 2/pseudo.txt" />
     <entry file="file://$PROJECT_DIR$/02-Oppgaver/Innleveringer/Innlevering 2/kalkis.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/11_LIster/Oppgave-11.9/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/11_LIster/Oppgave-11.9/out/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/04-Annet/Kalkulator/main.js">
       <provider selected="true" editor-type-id="text-editor" />
@@ -658,21 +606,48 @@
     <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/Vue/test/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/Animasjon2/lotto/index.html">
+    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/Animasjon2/lotto/out/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/11_LIster/Oppgave-11.9/out/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/11_LIster/Oppgave-11.9/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="609">
-          <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+        <state relative-caret-position="876">
+          <caret line="42" column="52" lean-forward="true" selection-start-line="42" selection-start-column="52" selection-end-line="42" selection-end-column="52" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/Animasjon2/lotto/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        <state relative-caret-position="227">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/Animasjon2/lotto/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="42" column="26" lean-forward="true" selection-start-line="42" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/Animasjon2/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-436">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-Undervisningsnotater/Animasjon2/Oppgave-17.22.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="70" column="41" selection-start-line="70" selection-start-column="41" selection-end-line="70" selection-end-column="41" />
         </state>
       </provider>
     </entry>

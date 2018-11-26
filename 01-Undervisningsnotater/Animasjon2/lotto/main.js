@@ -8,6 +8,11 @@ window.onload = function () {
     let tall = [2,31,12,19,12,8,6];
     let i = 0;
 
+    /**
+     * Set the shoe's color. Use {@link Shoe#setSize} to set the shoe size.
+     *
+     * @param {string} color - The shoe's color.
+     */
     knappE.addEventListener('click', function () {
         if(i<7){
             tallE[i].innerHTML = tall[i];
