@@ -675,8 +675,8 @@ _gsScope._gsDefine("TimelineLite", ["core.Animation","core.SimpleTimeline","Twee
 				tween.invalidate();
 				tween = tween._next;
 			}
-			return Animation.prototype.invalidate.call(this);;
-		};
+            return Animation.prototype.invalidate.call(this);
+        };
 
 		p._enabled = function(enabled, ignoreTimeline) {
 			if (enabled === this._gc) {
