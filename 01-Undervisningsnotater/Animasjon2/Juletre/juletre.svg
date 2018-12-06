@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);fill:#152D05;}
+	.st1{clip-path:url(#XMLID_5_);fill:#3D2713;}
+	.st2{fill:#C12727;}
+	.st3{fill:#BFB028;}
+</style>
+<g id="Tre">
+	<g>
+		<g>
+			<defs>
+				<polygon id="SVGID_1_" points="916.51,993.83 819.87,739.24 834.57,739.24 769.3,567.27 782.28,567.27 731.84,434.39 
+					740.19,434.39 660.71,225 581.23,434.39 589.84,434.39 539.4,567.27 551.89,567.27 486.61,739.24 501.58,739.24 404.94,993.83 
+									"/>
+			</defs>
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;fill:#264F0C;"/>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+			</clipPath>
+			<rect x="390.59" y="224.46" class="st0" width="269.92" height="781.66"/>
+		</g>
+		<g>
+			<defs>
+				<rect id="XMLID_2_" x="629.63" y="993.83" width="61.75" height="78.17"/>
+			</defs>
+			<use xlink:href="#XMLID_2_"  style="overflow:visible;fill:#5B3A1C;"/>
+			<clipPath id="XMLID_5_">
+				<use xlink:href="#XMLID_2_"  style="overflow:visible;"/>
+			</clipPath>
+			<rect x="603.74" y="967.03" class="st1" width="43.82" height="141.82"/>
+		</g>
+	</g>
+</g>
+<g id="Kuler">
+	<circle class="st2" cx="389.03" cy="996.12" r="21.03"/>
+	<circle class="st2" cx="463.99" cy="738.32" r="21.03"/>
+	<circle class="st2" cx="518.84" cy="571.03" r="21.03"/>
+	<circle class="st2" cx="560.89" cy="431.16" r="21.03"/>
+	<circle class="st2" cx="760.18" cy="431.16" r="21.03"/>
+	<circle class="st2" cx="802.24" cy="571.03" r="21.03"/>
+	<circle class="st2" cx="857.09" cy="738.32" r="21.03"/>
+	<circle class="st2" cx="937.53" cy="993.38" r="21.03"/>
+</g>
+<g id="Stjerne">
+	<polygon class="st3" points="702.74,155.74 744.33,114.85 686.58,106.71 660.54,54.53 634.96,106.93 577.28,115.57 619.22,156.1 
+		609.61,213.62 651.75,191.23 643.91,235 678,235 670.11,190.94 712.85,213.17 	"/>
+</g>
+</svg>

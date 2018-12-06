@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        #boks{
+            width: 100px;
+            height: 100px;
+            background-color: #3b8054;
+            margin: 100px;
+        }
+    </style>
+</head>
+<body>
+
+<select name="" id="hastighet">
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+</select>
+
+<div id="boks"></div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.0.2/TweenMax.min.js"></script>
+<script>
+    let hastighet = 0;
+    let roterBoks = new TweenMax("#boks", 5, {
+        rotation:hastighet,
+        repeat:-1,
+        ease:Linear.easeNone,
+        timeScale:0
+    });
+
+    let hastighetE = document.querySelector("#hastighet");
+    hastighetE.addEventListener('change', function () {
+        hastighet = Number(hastighetE.value);
+        TweenMax.to(roterBoks, 3, { timeScale: hastighet });
+    })
+
+</script>
+</body>
+</html>

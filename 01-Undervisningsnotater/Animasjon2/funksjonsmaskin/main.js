@@ -47,8 +47,6 @@ window.onload = function () {
         TweenMax.to("#tallUt",1.5, {y:200, rotation:-360, delay:i+6.2});
 
 
-
-
     }
 };
 
